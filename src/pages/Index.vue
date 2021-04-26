@@ -1,0 +1,166 @@
+<template>
+  <Layout>
+    <header id="second-header">
+      <g-image src="~/assets/img/gruppebilde-kull21.jpg" class = "header-image"/>
+      <div class="body">
+        <p>Har du lyst til å bli med oss i Delta å jobbe for studentenes trivsel og skape et helhetlig fritidstilbud til våre medlemmer? Da bør du søke deg til en av våre komiteer!</p>
+        <a href="#" class="link-button">Søk her</a>
+      </div>
+    </header>
+      <section id="kompendier">
+        <a href="#">
+          <h1>Kompendier</h1>
+          <ul>
+            <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"/></g-link></li>
+            <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/MA1102.jpg" alt="MA1102"/></g-link></li>
+            <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/MA1201.jpg" alt="MA1201"/></g-link></li>
+            <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"/></g-link></li>
+            <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"/></g-link></li>
+          </ul>
+        </a>
+        <g-link class=link-button to="/kompendier">Se alle</g-link>
+      </section>
+      <section id="nyheter">
+        <h2>Nyheter</h2>
+        <article>
+          <header>
+                      <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
+                        <h1>Lorem, ipsum dolor.</h1>
+                    </header>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere modi cupiditate maxime nemo animi, quos rem molestiae vitae at sint eos id quae laborum quo adipisci cum nobis inventore unde doloribus vel voluptas nesciunt et. Minus, et reprehenderit! Eaque quisquam nemo quae ipsa voluptatem excepturi!</p>
+                    <br>
+                    <a href="#">Les Mer</a>
+                </article>
+                <article>
+                    <header>
+                        <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
+                        <h1>Lorem, ipsum dolor.</h1>
+                    </header>
+                    <p>Denne våren var Deltas bursdagsfeiring – og jubileum – planlagt til å avholdes den 13. mars. Vi var frem til relativt nylig optimistiske på å få gjennomført jubileumet, da det så tilsynelatende ut som om smitten var på vei ned, og at folk ble vaksinerte. Med oppblussingen av den nye varianten av COVID-19, samt at</p>
+                    <br>
+                    <a href="#">Les Mer</a>
+                </article>
+                <article>
+                    <header>
+                        <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
+                        <h1>Lorem, ipsum dolor.</h1>
+                    </header>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere modi cupiditate maxime nemo animi, quos rem molestiae vitae at sint eos id quae laborum quo adipisci cum nobis inventore unde doloribus vel voluptas nesciunt et. Minus, et reprehenderit! Eaque quisquam nemo quae ipsa voluptatem excepturi!</p>
+                    <br>
+                    <a href="#">Les Mer</a>
+                </article>
+            </section>
+  </Layout>
+</template>
+
+<script>
+export default {
+  metaInfo: {
+    title: 'Delta - linjeforeningen for matte og fysikk ved NTNU'
+  }
+}
+</script>
+
+<style>
+  *{
+    padding: 0;
+    border: 0;
+    margin: 0;
+  }
+  .header-image{
+    width: 100vw
+  }
+  :root{
+    --deltaGreen: #005500;
+    --buttonGreen: #002500;
+  }
+  html {
+    width: 100vw;
+  }
+  #second-header {
+  background-color: var(--deltaGreen);
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+}
+#second-header a {
+  font-weight: 400;
+  font-size: 2.2rem;
+  font-style: normal;
+  background-color: var(--buttonGreen);
+  padding: 0.5em;
+  border-radius: 1rem;
+}
+#second-header p {
+  margin: 0 0 3rem 0;
+}
+#second-header .body {
+  padding: 100px 240px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+#kompendier {
+  text-align: center;
+  padding: 4rem 0;
+}
+.link-button {
+  font-weight: 400;
+  font-size: 2.2rem;
+  font-style: normal;
+  background-color: var(--buttonGreen);
+  padding: 0.5em;
+  border-radius: 1rem;
+  color: white;
+}
+#kompendier ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#kompendier li {
+  list-style: none;
+  margin: 2rem 3rem;
+}
+#kompendier h1 {
+  font-size: 3rem;
+  margin: 2rem;
+}
+
+#nyheter {
+  background-color: var(--deltaGreen);
+  padding: 5rem 15rem;
+  font-size: 1.6rem;
+}
+#nyheter h2 {
+  color: white;
+  margin: 0 0 40px 0;
+  text-align: center;
+  font-size: 3rem;
+}
+#nyheter h1 {
+  margin: 2rem 0 1rem 0;
+}
+#nyheter article {
+  background-color: white;
+  margin: 20px 120px;
+  padding: 30px;
+  line-height: 1.3em;
+  text-align: center;
+  border-radius: 3rem;
+}
+
+#nyheter a {
+  background-color: var(--buttonGreen);
+  margin: 10rem 0;
+  padding: 0.7rem 1.2rem;
+  font-weight: 400;
+  border-radius: 0.8rem;
+  color: white;
+}
+</style>
