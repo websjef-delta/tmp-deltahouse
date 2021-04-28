@@ -7,6 +7,20 @@
 module.exports = {
   siteName: 'Deltahouse',
   plugins: [
-    
-  ]
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: '_posts/**/*.md', 
+        typeName: 'Post',
+        remark: {
+          // remark options
+        }
+      }
+    }
+  ],
+  transformers: {
+    remark: {
+      // global remark options
+    }
+  }
 }
