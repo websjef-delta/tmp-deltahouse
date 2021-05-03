@@ -67,7 +67,7 @@ collections:
           - { label: "intro", name: "intro", widget: "markdown" }
           - label: "kompendiene"
             name: "compendiums"
-            widget: "objects"
+            widget: "object"
             fields:
               - { label: "Tittel (fagkode...)", name: title, widget: "string" }
               - { label: "pris", name: price, widget: "number" }
