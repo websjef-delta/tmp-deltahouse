@@ -41,6 +41,7 @@
     }
   }
 </page-query>
+
 <script>
 import NewsCard from '../components/NewsCard.vue'
 export default {
@@ -133,24 +134,5 @@ a {
   text-align: center;
   font-size: 3rem;
 }
-#nyheter h1 {
-  margin: 2rem 0 1rem 0;
-}
-#nyheter article {
-  background-color: white;
-  margin: 20px 120px;
-  padding: 30px;
-  line-height: 1.3em;
-  text-align: center;
-  border-radius: 3rem;
-}
 
-#nyheter a {
-  background-color: var(--buttonGreen);
-  margin: 10rem 0;
-  padding: 0.7rem 1.2rem;
-  font-weight: 400;
-  border-radius: 0.8rem;
-  color: white;
-}
 </style>
