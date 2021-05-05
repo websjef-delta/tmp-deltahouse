@@ -1,6 +1,6 @@
 ---
 title: Arrkom
-bilde: https://images.unsplash.com/photo-1543269865-cbf427effbad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+bilde: https://www.flaticon.com/svg/vstatic/svg/3093/3093955.svg?token=exp=1620215804~hmac=dc6f80e9b46d4bc066b92ef147f8791c
 layout: committee
 ---
 <!--StartFragment-->

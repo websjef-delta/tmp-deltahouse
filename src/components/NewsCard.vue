@@ -1,5 +1,5 @@
 <template>
-    <div class="news">
+    <div class="post">
         <article>
             <header>
                 <g-image width="150" :src="post.bilde"/>
@@ -19,10 +19,10 @@ export default {
 </script>
 
 <style >
-.news h1 {
+.post h1 {
   margin: 2rem 0 1rem 0;
 }
-.news article {
+.post article {
   background-color: white;
   margin: 20px 120px;
   padding: 30px;
@@ -31,7 +31,7 @@ export default {
   border-radius: 3rem;
 }
 
-.news a {
+.post a {
   background-color: var(--buttonGreen);
   margin: 10rem 0;
   padding: 0.7rem 1.2rem;
