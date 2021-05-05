@@ -1,9 +1,9 @@
 <template>
     <layout>
         <div class="markdown-body">
-            <h1 v-html="$page.post.title"/>
-            <img v-img="$page.post.bilde"/>
-            <div v-html="$page.post.content"/>
+            <h1 v-html="$page.posts.title"/>
+            <img v-img="$page.posts.bilde"/>
+            <div v-html="$page.posts.content"/>
         </div>
     </layout>
 </template>
