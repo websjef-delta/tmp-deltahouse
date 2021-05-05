@@ -22,39 +22,29 @@
       </section>
       <section id="nyheter">
         <h2>Nyheter</h2>
-        <article>
-          <header>
-                      <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
-                        <h1>Lorem, ipsum dolor.</h1>
-                    </header>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere modi cupiditate maxime nemo animi, quos rem molestiae vitae at sint eos id quae laborum quo adipisci cum nobis inventore unde doloribus vel voluptas nesciunt et. Minus, et reprehenderit! Eaque quisquam nemo quae ipsa voluptatem excepturi!</p>
-                    <br>
-                    <a href="#">Les Mer</a>
-                </article>
-                <article>
-                    <header>
-                        <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
-                        <h1>Lorem, ipsum dolor.</h1>
-                    </header>
-                    <p>Denne våren var Deltas bursdagsfeiring – og jubileum – planlagt til å avholdes den 13. mars. Vi var frem til relativt nylig optimistiske på å få gjennomført jubileumet, da det så tilsynelatende ut som om smitten var på vei ned, og at folk ble vaksinerte. Med oppblussingen av den nye varianten av COVID-19, samt at</p>
-                    <br>
-                    <a href="#">Les Mer</a>
-                </article>
-                <article>
-                    <header>
-                        <g-image src="~/assets/img/delta.png" width="150" alt="delta logo"/>
-                        <h1>Lorem, ipsum dolor.</h1>
-                    </header>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere modi cupiditate maxime nemo animi, quos rem molestiae vitae at sint eos id quae laborum quo adipisci cum nobis inventore unde doloribus vel voluptas nesciunt et. Minus, et reprehenderit! Eaque quisquam nemo quae ipsa voluptatem excepturi!</p>
-                    <br>
-                    <a href="#">Les Mer</a>
-                </article>
-            </section>
+        <news-card v-for="edge in $page.news.edges" :key="edge.node.id" :post="edge.node"/>  
+      </section>
   </Layout>
 </template>
 
+<page-query>
+  query{
+    news: allPosts(filter: {layout: {eq: "news"}}){
+      edges{
+        node{
+          path
+          title
+          excerpt 
+          
+        }
+      }
+    }
+  }
+</page-query>
 <script>
+import NewsCard from '../components/NewsCard.vue'
 export default {
+  components: { NewsCard },
   metaInfo: {
     title: 'Delta - linjeforeningen for matte og fysikk ved NTNU'
   }
