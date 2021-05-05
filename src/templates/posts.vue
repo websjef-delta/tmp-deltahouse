@@ -31,7 +31,9 @@ export default {
 <style>
     @import url('https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css');
 
+
     .markdown-body {
+        font-size: 160%;
         box-sizing: border-box;
         min-width: 200px;
         max-width: 980px;
