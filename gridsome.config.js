@@ -11,7 +11,8 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: '_posts/**/*.md', 
-        typeName: 'Post',
+//posts are cms-collections
+        typeName: 'posts',
         remark: {
           // remark options
         }
