@@ -14,8 +14,9 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
+      - { label: "Layout", name: "layout", widget: "hidden", default: "news" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Featured Image", name: "bilde", widget: "image" }
+      - { label: "Bilde", name: "bilde", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "comittees" # Used in routes, e.g., /admin/collections/blog
     label: "komitè" # Used in the UI
@@ -23,8 +24,14 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "committee",
+        }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Topp-bilde", name: "featurd-image", widget: "image" }
+      - { label: "Topp-bilde", name: "bilde", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "sider"
     name: "pages"

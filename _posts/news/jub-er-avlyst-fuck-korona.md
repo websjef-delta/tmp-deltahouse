@@ -1,5 +1,6 @@
 ---
 title: Jub er avlyst fuck korona
 bilde: https://www.volvat.no/globalassets/images/coronavirus.jpg?w=1500&h=1000&mode=&scale=&anchor=
+layout: news
 ---
 Vi må avlyse jubet. Men det blir dritkult jub til neste år og vi fikser noe digitalt piss (ble veldig bra da <3)
