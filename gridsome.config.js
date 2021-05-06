@@ -17,7 +17,17 @@ module.exports = {
           // remark options
         }
       }
+    },
+    { use: '@gridsome/source-filesystem',
+    options: {
+      path: './site/**/*.md', 
+//posts are cms-collections
+      typeName: 'site',
+      remark: {
+        // remark options
+      }
     }
+  }
   ],
   transformers: {
     remark: {

@@ -38,7 +38,7 @@ collections:
     files:
       - label: "Om oss"
         name: "om-oss"
-        file: "site/content/om-oss.yml"
+        file: "site/content/om-oss.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Ingress", name: "intro", widget: "markdown" }
@@ -66,16 +66,38 @@ collections:
               name: body,
               widget: markdown,
             }
-
-      - label: Kompendier
-        name: kompendier
-        file: "site/content/kompendier.yml"
+      - label: "Kompendier"
+        name: "compendiums"
+        file: "site/content/kompendier.md"
         fields:
-          - { label: "intro", name: "intro", widget: "markdown" }
-          - label: "kompendiene"
-            name: "compendiums"
-            widget: "object"
+          - label: "Kompendier"
+            name: "the_compendiums"
+            widget: "list"
             fields:
-              - { label: "Tittel (fagkode...)", name: title, widget: "string" }
-              - { label: "pris", name: price, widget: "number" }
-              - { label: "bilde", name: "image", widget: "image" }
+              - label: kompendie
+                name: compendium
+                widget: object
+                fields:
+                  - { label: Tittel, name: title, widget: string }
+                  - {
+                      label: pris norske kroner eller delta-coins. Dodge coins og pi-coins godtas ikke,
+                      name: price,
+                      widget: number,
+                    }
+                  - { label: forsidebilde, name: cover, widget: image }
+      # - label: Kompendier
+      #   name: kompendier
+      #   file: "site/content/kompendier.md"
+      #   fields:
+      #     - { label: "intro", name: "intro", widget: "markdown" }
+      #     - label: kompendiene
+      #       name: compendiums
+      #       widget: list
+      #       fields:
+      #         - label: kompendie
+      #           name: compendium
+      #           widget: object
+      #           fields:
+      #             - { label: "tittel", name: "title", widget: "string" }
+      #             - { label: "pris", name: "price", widget: "string" }
+      #             - { label: "forsidebilde", name: "image", widget: "image" }
