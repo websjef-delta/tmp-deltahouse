@@ -24,8 +24,8 @@ export default {
 }
 .post article {
   background-color: white;
-  margin: 20px 120px;
-  padding: 30px;
+  margin: 2rem 12rem;
+  padding: 3rem;
   line-height: 1.3em;
   text-align: center;
   border-radius: 3rem;

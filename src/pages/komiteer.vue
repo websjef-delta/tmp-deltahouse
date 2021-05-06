@@ -46,5 +46,7 @@ export default {
   
   .card-container {
     text-align: center;
+    font-size: 2.5rem;
+
   }
 </style>

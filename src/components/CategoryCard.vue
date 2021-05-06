@@ -16,19 +16,21 @@ export default {
 <style >
 .cat h1 {
   margin: 2rem 0 1rem 0;
+  font-size: 2rem;
   color: white;
 }
 .cat img{
     width: 5rem;
 }
 .cat {
-  background-color: #005500;
-  margin: 3rem;
-  padding: 3rem;
-  line-height: 1.3em;
-  text-align: center;
-  border-radius: 2rem;
-  width: 15rem;
-  height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    justify-content: center; 
+    background-color: #005500;
+    margin: 3rem;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 20rem;
 }
 </style>
