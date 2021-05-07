@@ -70,6 +70,7 @@ collections:
         name: "compendiums"
         file: "site/content/kompendier.md"
         fields:
+          - { label: "intro", name: "intro", widget: "string" }
           - label: "Kompendier"
             name: "the_compendiums"
             widget: "list"

@@ -1,6 +1,12 @@
 <template>
   <Layout>
-    <h1 v-for="comps in $page.comp.the_compendiums" :key="comps.compendium" v-html="comps.compendium.title"/>
+    <div class="page-container">
+      <h1>Kompendier</h1>
+      <p>{{$page.comp.intro}}</p>
+      <div class="cards">
+        <compendium-card v-for="comps in $page.comp.the_compendiums" :key="comps.compendium" :comp="comps.compendium"/>
+      </div>
+    </div>
   </Layout>
 </template>
 
@@ -20,9 +26,25 @@
 </page-query>
 
 <script>
+import CompendiumCard from '../components/CompendiumCard.vue'
 export default {
+  components:{CompendiumCard},
   metaInfo: {
-    title: 'About us'
+    title: 'Kompendier'
   }
 }
 </script>
+
+<style>
+  
+  .page-container {
+    margin-top: 2.6rem;
+    text-align: center;
+    font-size: 120%;
+  }
+  .cards{
+    display: flex;
+    flex-direction: row;
+    margin: 0 25vw;
+  }
+</style>
