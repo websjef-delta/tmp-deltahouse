@@ -1,9 +1,23 @@
 <template>
   <Layout>
-    <h1>About us</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <h1 v-for="comps in $page.comp.the_compendiums" :key="comps.compendium" v-html="comps.compendium.title"/>
   </Layout>
 </template>
+
+<page-query>
+   query{
+     comp: site(path: "/site/content/kompendier/"){
+      intro
+      the_compendiums{
+        compendium{
+          title
+          price
+          cover
+        }
+      }
+    }
+  }
+</page-query>
 
 <script>
 export default {

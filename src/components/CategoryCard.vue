@@ -27,10 +27,10 @@ export default {
     flex-direction: column;
     align-items: center;   
     justify-content: center; 
-    background-color: #005500;
-    margin: 3rem;
+    background-color: #59a673;
+    margin: 2rem;
     border-radius: 2rem;
-    width: 20rem;
-    height: 20rem;
+    width: 18rem;
+    height: 18rem;
 }
 </style>

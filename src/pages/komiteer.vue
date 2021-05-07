@@ -41,12 +41,12 @@ export default {
     flex-wrap: wrap;
     align-items: center; 
     flex-direction: row;
-    margin: 0 20%;
+    margin: 4.1rem 17%;
   }
   
   .card-container {
+    margin-top: 2.6rem;
     text-align: center;
     font-size: 2.5rem;
-
   }
 </style>

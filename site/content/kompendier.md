@@ -1,9 +1,5 @@
 ---
 intro: "Kompendier kan kjøpes på kontoret... "
-compendiums:
-  title: MA1101
-  price: 420
-  image: https://image.shutterstock.com/image-illustration/finance-concept-book-money-pages-260nw-635777873.jpg
 the_compendiums:
   - compendium:
       title: ma1101

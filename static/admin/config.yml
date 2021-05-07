@@ -54,7 +54,7 @@ collections:
             widget: "list"
             fields:
               - { label: "Name", name: "navn", widget: "string" }
-              - { label: "Verf", name: "position", widget: "string" }
+              - { label: "Verv", name: "position", widget: "string" }
               - {
                   label: "Om dude-en/dudeett-a/dudeett-hen",
                   name: "about-me",
@@ -73,6 +73,7 @@ collections:
           - label: "Kompendier"
             name: "the_compendiums"
             widget: "list"
+            summary: " "
             fields:
               - label: kompendie
                 name: compendium
@@ -80,24 +81,8 @@ collections:
                 fields:
                   - { label: Tittel, name: title, widget: string }
                   - {
-                      label: pris norske kroner eller delta-coins. Dodge coins og pi-coins godtas ikke,
+                      label: "pris i norske kroner eller delta-coins. Dodge coins, pi-coins og andre valutaer godtas ikke",
                       name: price,
                       widget: number,
                     }
                   - { label: forsidebilde, name: cover, widget: image }
-      # - label: Kompendier
-      #   name: kompendier
-      #   file: "site/content/kompendier.md"
-      #   fields:
-      #     - { label: "intro", name: "intro", widget: "markdown" }
-      #     - label: kompendiene
-      #       name: compendiums
-      #       widget: list
-      #       fields:
-      #         - label: kompendie
-      #           name: compendium
-      #           widget: object
-      #           fields:
-      #             - { label: "tittel", name: "title", widget: "string" }
-      #             - { label: "pris", name: "price", widget: "string" }
-      #             - { label: "forsidebilde", name: "image", widget: "image" }
