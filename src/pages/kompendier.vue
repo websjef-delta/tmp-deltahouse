@@ -44,7 +44,8 @@ export default {
   }
   .cards{
     display: flex;
-    flex-direction: row;
-    margin: 0 25vw;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0 10%;
   }
 </style>
