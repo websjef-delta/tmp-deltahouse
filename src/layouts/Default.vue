@@ -49,7 +49,7 @@ query {
   margin:0;
   padding:0;
   line-height: 1.5;
-  box-sizing: border-box;
+  max-width: 99vw;
 }
 html {
   font-size: 62.5%;
