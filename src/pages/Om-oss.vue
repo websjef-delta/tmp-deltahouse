@@ -34,7 +34,7 @@ import BioCard from '../components/BioCard.vue'
 export default {
   components: { BioCard },
   metaInfo: {
-    title: 'About us'
+    title: 'Om Oss'
   }
 }
 </script>

@@ -26,7 +26,7 @@ This is the templates for all posts, ie: both comittees and news posts
 export default {
     metaInfo(){
         return {
-            title: this.$page.post.title
+            title: this.$page.posts.title
         }
     }
 }
