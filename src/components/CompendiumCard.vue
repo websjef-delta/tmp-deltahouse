@@ -25,7 +25,7 @@ export default {
     align-items: center;   
     justify-content: center; 
     background-color: #59a673;
-    margin: 2rem;
+    margin: 1rem;
     border-radius: 2rem;
     width: 30rem;
     height: 30rem;
