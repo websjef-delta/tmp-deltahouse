@@ -87,3 +87,8 @@ collections:
                       widget: number,
                     }
                   - { label: forsidebilde, name: cover, widget: image }
+      - label: "Ny student"
+        name: "newStudent"
+        file: "site/content/newStudent.md"
+        fields:
+          - { label: alt, name: body, widget: markdown }
