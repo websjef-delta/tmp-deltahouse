@@ -44,7 +44,7 @@ export default {
     text-align: center;
     max-width: 100rem;
     margin: 0 25%;
-    font-size: 120%;
+    font-size: 130%;
   }
 
   .page-container h1{

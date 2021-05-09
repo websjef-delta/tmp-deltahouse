@@ -22,11 +22,16 @@ export default {
 .card   {
     display: flex;
     margin: 5rem 15%;
+    padding-right: 1rem;
+    background-color: #59A673;
+    border-radius: .5rem 1rem 6rem .5rem;
+    max-height: 437px;
 }
 .card img{
     margin-right: 2rem;
     border-radius: .5rem;
     max-width: 290px;
+    max-height: 437px;
 }
 
 .text-container {
