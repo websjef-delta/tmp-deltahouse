@@ -5,7 +5,7 @@
             </div>
             <div class="text-container">
                 <h1>{{person.position}}</h1>
-                <h2>{{person.navn}}</h2>
+                <h3>{{person.navn}}</h3>
                 <div v-html="person.aboutme"/>
             </div>
 
@@ -26,9 +26,13 @@ export default {
 .card img{
     margin-right: 2rem;
     border-radius: .5rem;
+    max-width: 290px;
 }
 
 .text-container {
     text-align: left;
+}
+.text-container div{
+    margin-top: .5rem;
 }
 </style>
