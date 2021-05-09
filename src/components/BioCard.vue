@@ -39,5 +39,6 @@ export default {
 }
 .text-container div{
     margin-top: .5rem;
+    margin-right: .5rem;
 }
 </style>
