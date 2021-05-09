@@ -5,28 +5,24 @@ This is the templates for all posts, ie: both comittees and news posts
 <template>
     <layout>
         <div class="markdown-body">
-            <h1 v-html="$page.posts.title"/>
-            <g-img v-img="$page.posts.bilde"/>
-            <div v-html="$page.posts.content"/>
+            <div v-html="$page.theSite.content"/>
         </div>
     </layout>
 </template>
 
 <page-query>
-    query Post ($path: String!){
-        posts (path: $path){
-            content 
-            title
-            bilde
-            }
+    query{
+        theSite: site(path: "/site/content/new-student/"){
+            content
     }
+}
 </page-query>
 
 <script>
 export default {
     metaInfo(){
         return {
-            title: this.$page.post.title
+            title: this.$page.site.title
         }
     }
 }

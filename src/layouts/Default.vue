@@ -17,6 +17,7 @@
         <li><g-link to="/om-oss">Om oss</g-link></li>
         <li><g-link to="/komiteer">Komiteer</g-link></li>
         <li><g-link to="/kompendier">kompendier</g-link></li>
+        <li><g-link to="/new-student">Ny student</g-link></li>
       </ul>
     </nav>
     <div class="body">
