@@ -1,13 +1,12 @@
 ---
-title: Om oss
-intro: ojnnawsgv
-heading-om-styret: aasf
-body-om-styret: dsadsadsgfdsfdg
+title: Om Delta
+intro: "Something something, dette er/gjør Delta Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quae ea eligendi ducimus optio dolorem modi itaque culpa veniam, voluptas nulla laborum eum nobis animi eveniet aliquid. Porro, reprehenderit cum ea quia nostrum harum quas sunt modi unde reiciendis consequatur, consectetur, deleniti atque totam doloremque! Eum quasi, odio sunt possimus quos facere ad ullam consequuntur, nobis iure est minima aut deleniti quia. Dolores pariatur tempora repellat magnam blanditiis quis cupiditate nostrum quidem distinctio architecto, obcaecati dolorum ut vero hic consequuntur praesentium eligendi quae iure eveniet quia, perspiciatis consequatur nulla veritatis. Temporibus quae, totam quibusdam fugiat nesciunt architecto sequi itaque obcaecati. Viktigste er å delta" 
+heading-om-styret: Om Styret
+body-om-styret: Something something, styret gjør ting I guess. Kast! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quae ea eligendi ducimus optio dolorem modi itaque culpa veniam, voluptas nulla laborum eum nobis animi eveniet aliquid. Porro, reprehenderit cum ea quia nostrum harum quas sunt modi unde reiciendis consequatur, consectetur, deleniti atque totam doloremque! Eum quasi, odio sunt possimus quos facere ad ullam consequuntur, nobis iure est minima aut deleniti quia. Dolores pariatur tempora repellat magnam blanditiis quis cupiditate nostrum quidem distinctio architecto, obcaecati dolorum ut vero hic consequuntur praesentium eligendi quae iure eveniet quia, perspiciatis consequatur nulla veritatis. Temporibus quae, totam quibusdam fugiat nesciunt architecto sequi itaque obcaecati.
 boardmembers:
   - navn: Kalle Navn
-    position: leder
-    about-me: Kalle ble født på deltakontoret en gang i 1901
+    position: Leder
+    aboutme: Kalle ble født i 1901 eller no sånt. Han er gammel vaffal. Sånn veldig *veldig* **gammal**  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quae ea eligendi ducimus optio dolorem modi itaque culpa veniam, voluptas nulla laborum eum nobis animi eveniet aliquid. Porro, reprehenderit cum ea quia nostrum harum quas sunt modi unde reiciendis consequatur, consectetur, deleniti atque totam doloremque! Eum quasi, odio sunt possimus quos facere ad ullam consequuntur, nobis iure est minima aut deleniti quia. Dolores pariatur tempora repellat magnam blanditiis quis cupiditate nostrum quidem distinctio architecto, obcaecati dolorum ut vero hic consequuntur praesentium eligendi quae iure eveniet quia, perspiciatis consequatur nulla veritatis. Temporibus quae, totam quibusdam fugiat nesciunt architecto sequi itaque obcaecati.
     bilde: http://3.bp.blogspot.com/-zOOOZ0NNe7s/Tlq_8Be95iI/AAAAAAAACZY/ua3nkJadIso/s1600/gadaffi.jpg
 ---
-### git good og lær markdown bitches
-asfsaf
+Hva faen vi vil
