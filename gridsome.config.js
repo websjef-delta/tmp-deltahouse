@@ -33,5 +33,8 @@ module.exports = {
     remark: {
       // global remark options
     }
+  },
+  chainWebpack (config) {
+    config.mode('development')
   }
 }
