@@ -38,7 +38,7 @@ boardmembers:
       hic consequuntur praesentium eligendi quae iure eveniet quia, perspiciatis
       consequatur nulla veritatis. Temporibus quae, totam quibusdam fugiat
       nesciunt architecto sequi itaque obcaecati.
-    bilde: http://3.bp.blogspot.com/-zOOOZ0NNe7s/Tlq_8Be95iI/AAAAAAAACZY/ua3nkJadIso/s1600/gadaffi.jpg
+    bilde: /images/uploads/gadaffi.jpg
   - navn: Bananacorn
     position: '"Nestleder"'
     aboutme: Not my nestleder!
