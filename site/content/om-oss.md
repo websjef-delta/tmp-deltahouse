@@ -43,5 +43,9 @@ boardmembers:
     position: '"Nestleder"'
     aboutme: Not my nestleder!
     bilde: /images/uploads/bananacorn.jpg
+  - navn: Harald
+    position: Økonomisjef
+    bilde: /images/uploads/okonomisjef.jpg
+    aboutme: Hei jeg er Harald,
 ---
 ## Hva faen vi vil
