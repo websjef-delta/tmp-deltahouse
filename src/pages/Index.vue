@@ -8,7 +8,6 @@
       </div>
     </header>
       <section id="kompendier">
-        <a href="#">
           <h1>Kompendier</h1>
           <ul>
             <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"/></g-link></li>
@@ -17,7 +16,6 @@
             <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"/></g-link></li>
             <li><g-link to="/kompendier"><g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"/></g-link></li>
           </ul>
-        </a>
         <g-link class=link-button to="/kompendier">Se alle</g-link>
       </section>
       <section id="nyheter">
