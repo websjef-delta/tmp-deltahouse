@@ -7,7 +7,8 @@ intro: >-
   som Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg
   har vi gjevnlige kollogkvier, fagforedrag, spillkvelder, quiz avisslipp og
   mye, mye mer.
-    
+
+
   Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
 heading-om-styret: Om Styret
 body-om-styret: Something something, styret gjør ting I guess. Kast! Lorem ipsum
