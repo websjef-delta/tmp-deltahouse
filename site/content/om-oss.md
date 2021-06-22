@@ -7,20 +7,20 @@ intro: >-
   som Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg
   har vi gjevnlige kollogkvier, fagforedrag, spillkvelder, quiz avisslipp og
   mye, mye mer.
-    
-  Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
+
+
+  Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!\
+
+  \
+
+  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta det ***n*** gratis kopper kaffe og slå av en pra da vell!
 heading-om-styret: Om Styret
-body-om-styret: Something something, styret gjør ting I guess. Kast! Lorem ipsum
-  dolor sit amet consectetur adipisicing elit. Cupiditate quae ea eligendi
-  ducimus optio dolorem modi itaque culpa veniam, voluptas nulla laborum eum
-  nobis animi eveniet aliquid. Porro, reprehenderit cum ea quia nostrum harum
-  quas sunt modi unde reiciendis consequatur, consectetur, deleniti atque totam
-  doloremque! Eum quasi, odio sunt possimus quos facere ad ullam consequuntur,
-  nobis iure est minima aut deleniti quia. Dolores pariatur tempora repellat
-  magnam blanditiis quis cupiditate nostrum quidem distinctio architecto,
-  obcaecati dolorum ut vero hic consequuntur praesentium eligendi quae iure
-  eveniet quia, perspiciatis consequatur nulla veritatis. Temporibus quae, totam
-  quibusdam fugiat nesciunt architecto sequi itaque obcaecati.
+body-om-styret: >-
+  Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
+  under. Det er vi som styrer det administrativet i linjeforeninga og bestemer
+  hvordan Delta skal driftes. \
+
+  Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: [delta@delta.org.ntnu.no](delta@delta.org.ntnu.no)
 boardmembers:
   - navn: Ole Martin Edstrøm
     position: Leder
