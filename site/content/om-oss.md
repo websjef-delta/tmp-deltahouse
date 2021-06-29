@@ -44,10 +44,26 @@ boardmembers:
   - navn: Harald
     position: Økonomisjef
     bilde: /images/uploads/okonomisjef.jpg
-    aboutme: Hei jeg er Harald,
+    aboutme: >-
+      Harald ankom Trondheim som 24-åring, etter å ha tatt en "liten" pause
+      etter videregående. Pausen innebar tur innom Forsvaret i Indre Troms som
+      endte opp med en varighet på 5 år. Etter søken på et litt dypere kunnskap,
+      forvillet han seg inn på bachelor i fysikk hvor han nå går på tredjeåret.\
+
+      Harald har vært i en del forskjellige komitéer i Delta, men styrer for øyeblikket økonomien i linjeforeningen. Det er veldig spennende og ganske innviklet arbeid, som er veldig givende å holde på med.
   - navn: Andrine
     position: Faddersjef
-    aboutme: Jeg er faddersjef
+    aboutme: Andrine kom rett til Trondheim etter videregående, klar for å dykke ned
+      i all den fysikken og matematikken hennes hjerte måtte ønske. Det å flytte
+      til ett nytt sted langt unna, uten kjentfolk, under en global pandemi
+      virka ganske håpløst, men heldigvis var fadderuka der og introduserte
+      henne til Delta. Der møtte hun en gjeng med nerder som finner på alt slags
+      mulig rart sammen, og hun visste at i Delta kunne hun DELta (get it?).
+      Desperat etter å slippe å kjede seg under korona'n meldte hun seg opp i
+      alt for mange komiteer, og har brukt mer tid fysisk på campus i deltamøter
+      enn forelesning. Det ble ikke nok, så da valgte hun å bli faddersjef også,
+      og hun håper nå å kunne gjøre sitt for å gi nye studenter en fantastisk
+      start på studielivet.
     bilde: /images/uploads/okonomisjef.jpg
   - navn: Viktor
     position: Arrkomsjef
