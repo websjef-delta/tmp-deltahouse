@@ -41,7 +41,7 @@ boardmembers:
     position: Nestleder
     aboutme: nestleder!
     bilde: /images/uploads/bananacorn.jpg
-  - navn: Harald
+  - navn: Harald Bresand Bjerkeli
     position: Økonomisjef
     bilde: /images/uploads/okonomisjef.jpg
     aboutme: >-
@@ -51,7 +51,7 @@ boardmembers:
       forvillet han seg inn på bachelor i fysikk hvor han nå går på tredjeåret.\
 
       Harald har vært i en del forskjellige komitéer i Delta, men styrer for øyeblikket økonomien i linjeforeningen. Det er veldig spennende og ganske innviklet arbeid, som er veldig givende å holde på med.
-  - navn: Andrine
+  - navn: Andrine Haugdal
     position: Faddersjef
     aboutme: Andrine kom rett til Trondheim etter videregående, klar for å dykke ned
       i all den fysikken og matematikken hennes hjerte måtte ønske. Det å flytte
