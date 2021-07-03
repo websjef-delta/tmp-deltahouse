@@ -37,9 +37,21 @@ boardmembers:
 
       Da Ole Martin allerede hadde fått en bachelor i matematikk og tilbrakt to år i linjeforeningsstyret, bestemte han seg for å ta en ny bachelor, denne gangen i styrearbeid. Med dette stilte han nå øverst i årets fantastiske styre som skal dra Delta til nye høyder i 2021.
     bilde: /images/uploads/gadaffi.jpg
-  - navn: Natalie
+  - navn: Natalie Sønsthagen Eliassen
     position: Nestleder
-    aboutme: nestleder!
+    aboutme: >-
+      Natalie er fra gokk, også kalt Bjørkelangen. Der har hun bodd nesten hele
+      livet, og gikk på både barn-, ungdom- og videregående skole i bygda.
+      Natalie har én yngre bror, han er en hel del høyere enn henne, som så
+      klart irriterer henne til ingen ende. I løpet av sine 21 år her på jorden
+      har hun hatt 3 undulater, som er et passende dyr for Natalie, ettersom de
+      snakker like mye som henne. 
+
+
+      På skolen var matte alltid et fag Natalie likte og var god i, så mye at hun til og med hadde kallenavnene Matte og Matematikk en liten periode. Det var derfor tydelig at realfag var retningen for henne, og Natalie endte derfor opp med å ta en bachelor i fysikk her i Trondheim. Etter nå å ha fullført graden går veien forhåpentligvis videre til bioteknologi, for enda mer realfag. 
+
+
+      Natalie har alltid vært en veldig engasjert person, og har derfor hatt verv siden barneskolen. Det stoppet så klart ikke når hun flyttet til Trondheim, ettersom Delta åpnet henne med åpne armer. Hun startet i femtegir, og har ikke roet ned siden. Etter to år i styret som faddersjef og medkomsjef, bestemte Natalie seg for å bli en potet, og sitter derfor nå som nestleder. I dette vervet ønsker hun å hjelpe de andre i Styret og Delta med jobben de gjør, og ellers bare passe på at leder har alt under kontroll.
     bilde: /images/uploads/bananacorn.jpg
   - navn: Harald Bresand Bjerkeli
     position: Økonomisjef
@@ -65,9 +77,18 @@ boardmembers:
       og hun håper nå å kunne gjøre sitt for å gi nye studenter en fantastisk
       start på studielivet.
     bilde: /images/uploads/okonomisjef.jpg
-  - navn: Viktor
+  - navn: Viktor Mikalsen
     position: Arrkomsjef
-    aboutme: Jeg er Viktor
+    aboutme: >-
+      Viktor vokste opp i ei lita bygd kalt Tjongsfjord innerst inne i de
+      Nordlandske skoger. Han flyttet hjemmefra etter grunnskolen, og når
+      videregående var vel gjennomført tok han turen innom NTNU hvor han har
+      vært siden. Viktor har fullført en bachelor i fysikk, og tar nå et år hvor
+      han fyller på med mer kul matematikk før han går videre på master i
+      fysikk.
+
+
+      Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og høsten 2020 bestemte han seg for å stille til Deltastyret hvor han nå sitter som Arrkomsjef.
     bilde: /images/uploads/okonomisjef.jpg
   - navn: Espen
     position: Bedkomsjef
