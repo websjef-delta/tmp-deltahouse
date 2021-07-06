@@ -94,9 +94,14 @@ boardmembers:
     position: Bedkomsjef
     aboutme: Ja
     bilde: /images/uploads/okonomisjef.jpg
-  - navn: Jørgen
+  - navn: Jørgen Bakkeng
     position: Fagkomsjef
-    aboutme: Nei
+    aboutme: Jørgen er 23 år. Han er født og oppvokst i Lørenskog og flyttet
+      etterhvert til Trondheim for å studere fysikk. Her møtte han den
+      fantastiske linjeforeningen Delta. Etter litt tid i linjeforeningen med
+      litt forskjellige mindre verv fikk han æren av å være leder for
+      fagkomiteen. Til daglig liker han seg best på C3 hvor han sitter og
+      drikker (u)sunne mengder kaffe og prøver å henge med i pensum.
     bilde: /images/uploads/okonomisjef.jpg
   - navn: Natalie
     position: Inkomsjef
