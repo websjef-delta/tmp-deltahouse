@@ -90,9 +90,13 @@ boardmembers:
 
       Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og høsten 2020 bestemte han seg for å stille til Deltastyret hvor han nå sitter som Arrkomsjef.
     bilde: /images/uploads/okonomisjef.jpg
-  - navn: Espen
+  - navn: Espen van Beuzekom
     position: Bedkomsjef
-    aboutme: Ja
+    aboutme: Espen vokste opp i en liten bygd på vestlandet. Likevel har han klart å
+      klatre opp «The Corparate Ladder» og sitter nå som Bedriftskomitesjef i
+      Delta. Denne rollen fikk han etter noen tilfeldigheter i fadder-uka og
+      tiden etter, hvor han blant annet solgte seg selv på en auksjon. Nå jobber
+      han hardt for å få flest mulig deltakere ut i arbeidslivet.
     bilde: /images/uploads/okonomisjef.jpg
   - navn: Jørgen Bakkeng
     position: Fagkomsjef
