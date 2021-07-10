@@ -36,7 +36,7 @@ boardmembers:
 
 
       Da Ole Martin allerede hadde fått en bachelor i matematikk og tilbrakt to år i linjeforeningsstyret, bestemte han seg for å ta en ny bachelor, denne gangen i styrearbeid. Med dette stilte han nå øverst i årets fantastiske styre som skal dra Delta til nye høyder i 2021.
-    bilde: /images/uploads/gadaffi.jpg
+    bilde: /images/uploads/leder.png
   - navn: Natalie Sønsthagen Eliassen
     position: Nestleder
     aboutme: >-
@@ -52,10 +52,10 @@ boardmembers:
 
 
       Natalie har alltid vært en veldig engasjert person, og har derfor hatt verv siden barneskolen. Det stoppet så klart ikke når hun flyttet til Trondheim, ettersom Delta åpnet henne med åpne armer. Hun startet i femtegir, og har ikke roet ned siden. Etter to år i styret som faddersjef og medkomsjef, bestemte Natalie seg for å bli en potet, og sitter derfor nå som nestleder. I dette vervet ønsker hun å hjelpe de andre i Styret og Delta med jobben de gjør, og ellers bare passe på at leder har alt under kontroll.
-    bilde: /images/uploads/bananacorn.jpg
+    bilde: /images/uploads/nestleder.png
   - navn: Harald Bresand Bjerkeli
     position: Økonomisjef
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/okonomisjef.png
     aboutme: >-
       Harald ankom Trondheim som 24-åring, etter å ha tatt en "liten" pause
       etter videregående. Pausen innebar tur innom Forsvaret i Indre Troms som
@@ -76,7 +76,7 @@ boardmembers:
       enn forelesning. Det ble ikke nok, så da valgte hun å bli faddersjef også,
       og hun håper nå å kunne gjøre sitt for å gi nye studenter en fantastisk
       start på studielivet.
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/faddersjef.png
   - navn: Viktor Mikalsen
     position: Arrkomsjef
     aboutme: >-
@@ -89,7 +89,7 @@ boardmembers:
 
 
       Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og høsten 2020 bestemte han seg for å stille til Deltastyret hvor han nå sitter som Arrkomsjef.
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/arrkomsjef.png
   - navn: Espen van Beuzekom
     position: Bedkomsjef
     aboutme: Espen vokste opp i en liten bygd på vestlandet. Likevel har han klart å
@@ -97,7 +97,7 @@ boardmembers:
       Delta. Denne rollen fikk han etter noen tilfeldigheter i fadder-uka og
       tiden etter, hvor han blant annet solgte seg selv på en auksjon. Nå jobber
       han hardt for å få flest mulig deltakere ut i arbeidslivet.
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/bedkomsjef.png
   - navn: Jørgen Bakkeng
     position: Fagkomsjef
     aboutme: Jørgen er 23 år. Han er født og oppvokst i Lørenskog og flyttet
@@ -106,11 +106,11 @@ boardmembers:
       litt forskjellige mindre verv fikk han æren av å være leder for
       fagkomiteen. Til daglig liker han seg best på C3 hvor han sitter og
       drikker (u)sunne mengder kaffe og prøver å henge med i pensum.
-    bilde: /images/uploads/okonomisjef.jpg
-  - navn: Natalie
+    bilde: /images/uploads/fagkomsjef.png
+  - navn: Natalie Short Olsen
     position: Inkomsjef
-    aboutme: Nja
-    bilde: /images/uploads/okonomisjef.jpg
+    aboutme: (Kommer tekst)
+    bilde: /images/uploads/inkomsjef.png
   - navn: Kasper Voogt Arvesen
     position: Komkomsjef
     aboutme: Kasper ble født i Stavanger hvor han bodde i drøye to uker før han
@@ -130,7 +130,7 @@ boardmembers:
       trenger å få tak i Kasper i løpet av en studiehverdag er nok kontoret det
       første stedet du burde lete på ettersom han mener dette er et av de beste
       stedene å tilbringe tid.
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/komkomsjef.png
   - navn: Herman Høgseth Haavind
     position: Medkomsjef
     aboutme: >-
@@ -144,6 +144,6 @@ boardmembers:
 
 
       Etter en svipptur i forsvaret i et års tid var det endelig klart for å studere hvor han endte opp med å velge fysikk. Han ble godt tatt imot av linjeforeningen Delta, så godt faktisk at han valgte å engasjere seg og sitter nå som medkomsjef hvor han prøver å styre hele mediakomiteen til Delta.
-    bilde: /images/uploads/okonomisjef.jpg
+    bilde: /images/uploads/medkomsjef.png
 ---
 ## Tidligere styrer: (Kommer)
