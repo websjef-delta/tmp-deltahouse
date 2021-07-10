@@ -111,13 +111,39 @@ boardmembers:
     position: Inkomsjef
     aboutme: Nja
     bilde: /images/uploads/okonomisjef.jpg
-  - navn: Kasper
+  - navn: Kasper Voogt Arvesen
     position: Komkomsjef
-    aboutme: Kjeller
+    aboutme: Kasper ble født i Stavanger hvor han bodde i drøye to uker før han
+      flyttet til Høvik. Etter mange år med skole og et friår reiste han opp til
+      Trondheim for å starte på fysikkstudiet. Dette var et fagfelt som
+      interesserte ham, men samtidig hadde han et håp om å kunne ta en
+      internovergang i nær framtid. Denne internovergangen glemte han raskt
+      ettersom fysikk falt han mer i smak enn han først trodde samtidig som at
+      han landet i Linjeforening Delta som tok ham godt imot med åpne armer.
+      Kort tid etter at han snublet inn gjennom dørkarmen til Deltakontoret
+      følte han seg hjemme i Delta, noe som har ført til at mye av tiden hans i
+      Trondheim har gått til diverse komitearbeid i forskjellige komiteer.
+      Komiteen han trivdes mest i viste seg å være Komkom hvor han nå sitter som
+      leder av komiteen. Hovedoppgavene til Komkomsjef er å passe på at
+      underkomiteene får den støtten de trenger for å opprettholde deres vanlige
+      drift samt å styre med fellesarealene til linjeforeningen. Dersom man
+      trenger å få tak i Kasper i løpet av en studiehverdag er nok kontoret det
+      første stedet du burde lete på ettersom han mener dette er et av de beste
+      stedene å tilbringe tid.
     bilde: /images/uploads/okonomisjef.jpg
-  - navn: Herman
+  - navn: Herman Høgseth Haavind
     position: Medkomsjef
-    aboutme: Nett
+    aboutme: >-
+      En helt vanlig november dag i 98 ble Herman født i Kristiansand. Det var
+      også her han tilbrakte hele oppveksten sin. Fra han tok sine første skritt
+      til han dro i forsvaret skjedde det ikke så all verdens annet enn å være
+      et barn og å ha en svak drøm om å bli en god langrennsløper. Nå er ikke
+      Kristiansand kjent for å være den mest snøsikre plassen, og dette i
+      kombinasjon med oppdagelsen av øl gjorde at denne drømmen ble lagt på is
+      til ubestemt tid.
+
+
+      Etter en svipptur i forsvaret i et års tid var det endelig klart for å studere hvor han endte opp med å velge fysikk. Han ble godt tatt imot av linjeforeningen Delta, så godt faktisk at han valgte å engasjere seg og sitter nå som medkomsjef hvor han prøver å styre hele mediakomiteen til Delta.
     bilde: /images/uploads/okonomisjef.jpg
 ---
 ## Hva faen vi vil
