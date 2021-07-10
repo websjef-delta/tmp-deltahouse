@@ -60,6 +60,8 @@ collections:
                   widget: markdown,
                 }
               - { label: "bilde", name: "bilde", widget: "image" }
+              - { label: "mail", name: "mail", widget: "text" }
+              - { label: "nummer", name: "number", widget: "text" }
           - {
               label: "Skriv inn hva faen dere vil",
               name: body,

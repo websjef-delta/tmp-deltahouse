@@ -13,7 +13,7 @@ module.exports = {
         path: '_posts/**/*.md', 
 //posts are cms-collections
         typeName: 'posts',
-        remark: {
+        remark: { 
           // remark options
         }
       }
