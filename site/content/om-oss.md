@@ -36,7 +36,7 @@ boardmembers:
 
 
       Da Ole Martin allerede hadde fått en bachelor i matematikk og tilbrakt to år i linjeforeningsstyret, bestemte han seg for å ta en ny bachelor, denne gangen i styrearbeid. Med dette stilte han nå øverst i årets fantastiske styre som skal dra Delta til nye høyder i 2021.
-    bilde: /images/uploads/gadaffi.jpg
+    bilde: /images/uploads/leder.png
   - navn: Natalie Sønsthagen Eliassen
     position: Nestleder
     aboutme: >-
