@@ -36,8 +36,6 @@ export default {
 
 .text-container {
     text-align: left;
-}
-.text-container div{
     margin-top: .5rem;
     margin-right: .5rem;
     margin-bottom: 7rem;
