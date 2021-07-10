@@ -146,4 +146,4 @@ boardmembers:
       Etter en svipptur i forsvaret i et års tid var det endelig klart for å studere hvor han endte opp med å velge fysikk. Han ble godt tatt imot av linjeforeningen Delta, så godt faktisk at han valgte å engasjere seg og sitter nå som medkomsjef hvor han prøver å styre hele mediakomiteen til Delta.
     bilde: /images/uploads/okonomisjef.jpg
 ---
-## Hva faen vi vil
+## Tidligere styrer: (Kommer)
