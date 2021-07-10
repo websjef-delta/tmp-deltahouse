@@ -6,7 +6,7 @@
             <div class="text-container">
                 <h1>{{person.position}}</h1>
                 <h3>{{person.navn}}</h3>
-                <div v-html="person.aboutme"/>
+                <p v-html="person.aboutme"/>
             </div>
 
         </article>
@@ -25,7 +25,7 @@ export default {
     padding-right: 1rem;
     background-color: #59A673;
     border-radius: .5rem 1rem 6rem .5rem;
-    max-height: 437px;
+    min-height: 437px;
 }
 .card img{
     margin-right: 2rem;
