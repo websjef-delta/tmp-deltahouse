@@ -1,10 +1,8 @@
 ---
 layout: committee
-title: KomKom
+title: "Komitekomiteen:"
 bilde: /images/uploads/gadaffi.jpg
 ---
-# Komitekomiteen:
-
 Komitekomiteen, eller Komkom, er Linjeforeningen Delta sin paraplykomite. Her finner du litt av hvert når det gjelder underkomiteer, og ting man kan holde på med! Komkom driver med det noen burde gjøre, vaffelsalg, vedlikehold av linjeforeningskontoret, ølbrygging, idrett, bokklubb og hårklipping. Her finner du en god gjeng med mange forskjellige mennesker, og det er lett å trives i det store fellesskapet.
 
 Alle underkomiteene driver med mye forskjellig hver for seg i løpet av et semester, men hele komitekomiteen pleier å gjøre ting sammen i ny og ned i tillegg til dette. Vi vil ofte samles før de fleste arrangementene Arrangørkomiteen pleier å arrangere i løpet av året før vi samlet drar til lokalet arrangementet blir holdt. I tillegg til dette pleier vi også å dra på en felles koietur til en av de mange NTNUI koiene for å ha en koselig helg med spill, og et lite avbrekk fra studiehverdagen.
@@ -20,12 +18,10 @@ Dersom du er glad i øl, eller interessert i hvordan byggeprosessen egentlig fun
 **ΔS:**\
 DeltaS er underkomiteen i Delta som driver med alt av sportslige arrangementer. Dette kan være alt fra tur og joggetur til ballsporter som volleyball. Denne underkomiteen er en flott måte å drive med allerede godt kjente idretter, eller for å prøve ut noe helt nytt i et lavterskel miljø. Her kan man møte mange likesinnede deltagere som er glade i både tur, jogging, volleyball, klatring, ski og mye mer! Dersom det er en sport denne underkomiteen ikke driver med er det bare å fyre løs et forslag om å prøve ut idretten uten at ideen vil falle på døve ører.
 
-
-
 **Noenkom:**\
 Har du noen gang hatt en god ide eller lagt merke til et lite problem og tenkt at noen burde gjøre noe med saken? Vel frykt ikke for Noenkomiteen kan ordne opp i saken! Noenkom gjør det «noen burde gjøre». Dette kan være alt mulig rart som ikke faller under en annen sitt ansvarsområde. Forslagene man har kan lett sendes inn til lederen av underkomiteen, Noen, via et skjema som henger på linjeforeningskontoret. Denne underkomiteen har en struktur som er noe for seg selv, og som kan være forvirrende å sette seg inn i til å starte med. Men dersom du er interessert i å finne ut av hva Noenkom egentlig holder på med. Hvem Noen, Noen Andre, Vi, De eller Hvem er, hvordan medlemsgrader fungerer eller hvorfor underkomiteen feirer jubileum på IKEA så kan det være en ide å melde seg inn i denne underkomiteen for å komme til bunns i saken.
 
-**Kontorkom***:*\
+**Kontorkom**\
 «Det er mye som kan bli sagt om Trondheim by, men allikevel Deltakontoret». Kontoret blir av mange sett på som et hjem for alle deltagere, og det er ikke uvanlig å tilbringe litt for mye tid her i løpet av hverdagen. Kontor komiteen er underkomiteen som tar vare på dette fellesarealet på vegne av alle medlemmene til Delta. Dette kan gå ut på å pynte kontoret for enkelte høytider, eller reparere kjøleskapet som relativt ofte går i stykker. De korte møtene til Kontorkom blir holdt på kontoret, og blir ofte etterfulgt av en sosial samling etterpå.
 
 **The BookWormhole:**\
