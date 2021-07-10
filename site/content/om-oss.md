@@ -123,7 +123,18 @@ boardmembers:
     number: 980 33 840
   - navn: Natalie Short Olsen
     position: Inkomsjef
-    aboutme: (Kommer tekst)
+    aboutme: I oktober 1998 ble Natalie født i elvebyen Drammen, hvor hun bodde
+      store deler av oppveksten. De årene Natalie ikke bodde i Drammen, bodde
+      hun i Canada sammen med familien. Der gikk hun på skole, sto veldig mye på
+      ski og reiste rundt så mye som mulig for å se alt hun kunne av landet før
+      hun flyttet hjem til Norge igjen. Etter 13 år med mye reising, mange
+      eventyr og selvfølgelig skole, fant Natalie ut at fysikk var ganske kult.
+      Natalie tok derfor turen til Trondheim, hvor hun fort møtte
+      linjeforeningen Delta, og bestemte seg for at det var blant Deltagere hun
+      trivdes best. Med en linjeforening å engasjere seg i og mange gode venner
+      skulle det ikke mye til før Natalie tok på seg en del verv. Etter hvert
+      bestemte hun seg også for å stille som leder for den nyopprettede
+      komiteen; Inkluderingskomiteen, noe hun trivdes veldig med.
     bilde: /images/uploads/inkomsjef.png
     mail: delta.inkomsjef@gmail.com
     number: 910 02 627
