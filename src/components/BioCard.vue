@@ -40,5 +40,6 @@ export default {
 .text-container div{
     margin-top: .5rem;
     margin-right: .5rem;
+    margin-bottom: .5rem;
 }
 </style>
