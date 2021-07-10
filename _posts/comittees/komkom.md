@@ -1,6 +1,6 @@
 ---
 layout: committee
-title: "Komitekomiteen:"
+title: KomKom
 bilde: /images/uploads/gadaffi.jpg
 ---
 Komitekomiteen, eller Komkom, er Linjeforeningen Delta sin paraplykomite. Her finner du litt av hvert når det gjelder underkomiteer, og ting man kan holde på med! Komkom driver med det noen burde gjøre, vaffelsalg, vedlikehold av linjeforeningskontoret, ølbrygging, idrett, bokklubb og hårklipping. Her finner du en god gjeng med mange forskjellige mennesker, og det er lett å trives i det store fellesskapet.
