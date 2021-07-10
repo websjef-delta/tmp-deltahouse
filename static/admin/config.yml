@@ -55,13 +55,29 @@ collections:
               - { label: "Name", name: "navn", widget: "string" }
               - { label: "Verv", name: "position", widget: "string" }
               - {
+                  label: "mail",
+                  name: "mail",
+                  widget: "text",
+                  required: "false",
+                }
+              - {
+                  label: "nummer",
+                  name: "number",
+                  widget: "text",
+                  required: "false",
+                }
+              - {
                   label: "Om dude-en/dudeett-a/dudeett-hen",
                   name: aboutme,
                   widget: markdown,
                 }
-              - { label: "bilde", name: "bilde", widget: "image" }
-              - { label: "mail", name: "mail", widget: "text" }
-              - { label: "nummer", name: "number", widget: "text" }
+              - {
+                  label: "bilde",
+                  name: "bilde",
+                  widget: "image",
+                  required: "false",
+                }
+
           - {
               label: "Skriv inn hva faen dere vil",
               name: body,
