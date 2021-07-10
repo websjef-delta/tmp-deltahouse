@@ -3,8 +3,8 @@
     <header id="second-header">
       <g-image src="~/assets/img/gruppebilde-kull21.jpg" class = "header-image"/>
       <div class="body">
-        <p>Har du lyst til å bli med oss i Delta å jobbe for studentenes trivsel og skape et helhetlig fritidstilbud til våre medlemmer? Da bør du søke deg til en av våre komiteer!</p>
-        <a href="#" class="link-button">Søk her</a>
+        <p>Skal du studere årsstudium/bachelor/master i matematiske fag eller bachelor/master i fysikk ved NTNU til høsten? Meld deg på i Deltas fadderuke!</p>
+        <a href="https://forms.gle/G8RM8x3SV9NbEiySA" class="link-button">Søk her</a>
       </div>
     </header>
       <section id="kompendier">
