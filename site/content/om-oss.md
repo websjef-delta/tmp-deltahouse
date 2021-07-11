@@ -6,10 +6,10 @@ intro: >-
   fag og bechelor eller master i fysikk ved NTNU. Delta arrangere større ting
   som Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg
   har vi gjevnlige kollogkvier, fagforedrag, spillkvelder, quiz avisslipp og
-  mye, mye mer.
+  mye, mye mer. 
 
 
-  Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!\
+  Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta! \
 
   \
 
@@ -18,7 +18,7 @@ heading-om-styret: Om Styret
 body-om-styret: >-
   Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
   under. Det er vi som styrer det administrativet i linjeforeninga og bestemer
-  hvordan Delta skal driftes. \
+  hvordan Delta skal driftes.  \
 
   Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: [delta@delta.org.ntnu.no](delta@delta.org.ntnu.no)
 boardmembers:
@@ -47,10 +47,10 @@ boardmembers:
       Natalie har én yngre bror, han er en hel del høyere enn henne, som så
       klart irriterer henne til ingen ende. I løpet av sine 21 år her på jorden
       har hun hatt 3 undulater, som er et passende dyr for Natalie, ettersom de
-      snakker like mye som henne. 
+      snakker like mye som henne.  
 
 
-      På skolen var matte alltid et fag Natalie likte og var god i, så mye at hun til og med hadde kallenavnene Matte og Matematikk en liten periode. Det var derfor tydelig at realfag var retningen for henne, og Natalie endte derfor opp med å ta en bachelor i fysikk her i Trondheim. Etter nå å ha fullført graden går veien forhåpentligvis videre til bioteknologi, for enda mer realfag. 
+      På skolen var matte alltid et fag Natalie likte og var god i, så mye at hun til og med hadde kallenavnene Matte og Matematikk en liten periode. Det var derfor tydelig at realfag var retningen for henne, og Natalie endte derfor opp med å ta en bachelor i fysikk her i Trondheim. Etter nå å ha fullført graden går veien forhåpentligvis videre til bioteknologi, for enda mer realfag.  
 
 
       Natalie har alltid vært en veldig engasjert person, og har derfor hatt verv siden barneskolen. Det stoppet så klart ikke når hun flyttet til Trondheim, ettersom Delta åpnet henne med åpne armer. Hun startet i femtegir, og har ikke roet ned siden. Etter to år i styret som faddersjef og medkomsjef, bestemte Natalie seg for å bli en potet, og sitter derfor nå som nestleder. I dette vervet ønsker hun å hjelpe de andre i Styret og Delta med jobben de gjør, og ellers bare passe på at leder har alt under kontroll.
@@ -64,7 +64,8 @@ boardmembers:
       Harald ankom Trondheim som 24-åring, etter å ha tatt en "liten" pause
       etter videregående. Pausen innebar tur innom Forsvaret i Indre Troms som
       endte opp med en varighet på 5 år. Etter søken på et litt dypere kunnskap,
-      forvillet han seg inn på bachelor i fysikk hvor han nå går på tredjeåret.\
+      forvillet han seg inn på bachelor i fysikk hvor han nå går på tredjeåret. 
+
 
       Harald har vært i en del forskjellige komitéer i Delta, men styrer for øyeblikket økonomien i linjeforeningen. Det er veldig spennende og ganske innviklet arbeid, som er veldig givende å holde på med.
     mail: delta.okonomisjef@gmail.com
@@ -93,7 +94,7 @@ boardmembers:
       videregående var vel gjennomført tok han turen innom NTNU hvor han har
       vært siden. Viktor har fullført en bachelor i fysikk, og tar nå et år hvor
       han fyller på med mer kul matematikk før han går videre på master i
-      fysikk.
+      fysikk. 
 
 
       Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og høsten 2020 bestemte han seg for å stille til Deltastyret hvor han nå sitter som Arrkomsjef.
@@ -140,8 +141,9 @@ boardmembers:
     number: 910 02 627
   - navn: Kasper Voogt Arvesen
     position: Komkomsjef
-    aboutme: Kasper ble født i Stavanger hvor han bodde i drøye to uker før han
-      flyttet til Høvik. Etter mange år med skole og et friår reiste han opp til
+    aboutme: >-
+      Kasper ble født i Stavanger hvor han bodde i drøye to uker før han flyttet
+      til Høvik. Etter mange år med skole og et friår reiste han opp til
       Trondheim for å starte på fysikkstudiet. Dette var et fagfelt som
       interesserte ham, men samtidig hadde han et håp om å kunne ta en
       internovergang i nær framtid. Denne internovergangen glemte han raskt
@@ -151,12 +153,10 @@ boardmembers:
       følte han seg hjemme i Delta, noe som har ført til at mye av tiden hans i
       Trondheim har gått til diverse komitearbeid i forskjellige komiteer.
       Komiteen han trivdes mest i viste seg å være Komkom hvor han nå sitter som
-      leder av komiteen. Hovedoppgavene til Komkomsjef er å passe på at
-      underkomiteene får den støtten de trenger for å opprettholde deres vanlige
-      drift samt å styre med fellesarealene til linjeforeningen. Dersom man
-      trenger å få tak i Kasper i løpet av en studiehverdag er nok kontoret det
-      første stedet du burde lete på ettersom han mener dette er et av de beste
-      stedene å tilbringe tid.
+      leder av komiteen. 
+
+
+      Hovedoppgavene til Komkomsjef er å passe på at underkomiteene får den støtten de trenger for å opprettholde deres vanlige drift samt å styre med fellesarealene til linjeforeningen. Dersom man trenger å få tak i Kasper i løpet av en studiehverdag er nok kontoret det første stedet du burde lete på ettersom han mener dette er et av de beste stedene å tilbringe tid.
     bilde: /images/uploads/komkomsjef.png
     mail: komkomsjef@gmail.com
     number: 482 80 042
@@ -169,7 +169,7 @@ boardmembers:
       et barn og å ha en svak drøm om å bli en god langrennsløper. Nå er ikke
       Kristiansand kjent for å være den mest snøsikre plassen, og dette i
       kombinasjon med oppdagelsen av øl gjorde at denne drømmen ble lagt på is
-      til ubestemt tid.
+      til ubestemt tid. 
 
 
       Etter en svipptur i forsvaret i et års tid var det endelig klart for å studere hvor han endte opp med å velge fysikk. Han ble godt tatt imot av linjeforeningen Delta, så godt faktisk at han valgte å engasjere seg og sitter nå som medkomsjef hvor han prøver å styre hele mediakomiteen til Delta.
