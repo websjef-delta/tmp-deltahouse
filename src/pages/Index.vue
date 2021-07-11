@@ -9,7 +9,7 @@
           fadderuke!
         </p>
         <a href="https://forms.gle/G8RM8x3SV9NbEiySA" class="link-button"
-          >Søk her</a
+          >Påmelding</a
         >
       </div>
     </header>
@@ -98,24 +98,22 @@ html {
 }
 #second-header {
   background-color: var(--deltaGreen);
-  font-size: 4rem;
+  font-size: 3vw;
   text-align: center;
   color: white;
-  font-weight: 700;
+  font-weight: 600;
 }
 #second-header a {
   font-weight: 400;
-  font-size: 2.2rem;
+  font-size: 2.2vw;
   font-style: normal;
   background-color: var(--buttonGreen);
   padding: 0.5em;
   border-radius: 1rem;
 }
-#second-header p {
-  margin: 0 0 3rem 0;
-}
+
 #second-header .body {
-  padding: 10rem 24rem;
+  padding: 5vw 10vw;
 }
 
 a {

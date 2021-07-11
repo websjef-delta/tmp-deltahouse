@@ -4,7 +4,12 @@
     <header id="top-header">
       <g-link to="/">
         <div>
-          <g-image src="~/assets/img/delta.png" width="256" alt="delta logo"/>
+          <g-image
+            src="~/assets/img/delta.png"
+            max-height="2px"
+            width="260vw"
+            alt="delta logo"
+          />
         </div>
         <div class="top-text">
           <h1>Delta</h1>
@@ -21,13 +26,13 @@
       </ul>
     </nav>
     <div class="body">
-      <slot/>
+      <slot />
     </div>
     <footer>
       <h4>Kontaktinfo</h4>
       <p>Post: NV-Fakultetet, Realfagbygget</p>
       <p>Høgskoleringen 5, 7491 Trondheim</p>
-      <br>
+      <br />
       <p>Mail til styret: delta@delta.org.ntnu.no</p>
       <p>organisasjonsnummer: 996 510 352</p>
     </footer>
@@ -43,21 +48,21 @@ query {
 </static-query>
 
 <style>
-
 * {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
   line-height: 1.5;
-  max-width: 99vw;
+  max-width: 100%;
 }
 html {
   font-size: 62.5%;
 }
 #top-header {
-  font-size: 2rem;
+  font-size: 2vw;
   font-weight: 700;
-  margin: 2rem 20rem;
+  margin: 2rem 10vw;
 }
 #top-header a {
   display: flex;
@@ -69,7 +74,7 @@ html {
   transition: transform 0.2s;
 }
 #top-header img:hover {
-  transform: scale(1.2);
+  transform: scale(1.05);
   filter: brightness(0);
 }
 #top-header .top-text {
@@ -119,5 +124,4 @@ footer h4 {
   font-size: 1.6rem;
   line-height: 2.5rem;
 }
-
 </style>
