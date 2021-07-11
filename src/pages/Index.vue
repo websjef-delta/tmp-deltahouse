@@ -151,8 +151,7 @@ a {
 
 #nyheter {
   background-color: var(--deltaGreen);
-  padding: 5rem 15rem;
-  font-size: 1.6rem;
+  padding-bottom: 2vw;
 }
 #nyheter h2 {
   color: white;
