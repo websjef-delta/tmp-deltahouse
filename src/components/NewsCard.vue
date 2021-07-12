@@ -29,7 +29,7 @@ export default {
   margin: 2rem 12vw;
   padding: 4vw;
   line-height: 1.3em;
-  font-size: 3vw;
+  font-size: 2vw;
   text-align: center;
   border-radius: 3rem;
 }

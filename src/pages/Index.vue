@@ -157,6 +157,6 @@ a {
   color: white;
   margin: 0 0 4rem 0;
   text-align: center;
-  font-size: 3rem;
+  font-size: 3.5vw;
 }
 </style>
