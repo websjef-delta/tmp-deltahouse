@@ -1,5 +1,7 @@
 ---
-intro: "Kompendier kan kjøpes på kontoret... "
+intro: Vi tilbyr kompendier i alle intro fysikkfag for Siginglinjer. I tilleg
+  tilbyr vi kompendium i flere matematikkfag. En komplett liste ser du nedenfor.
+  Kompendiom kan kjøpes på kontoret vårt.
 the_compendiums:
   - compendium:
       title: MA1101 Grunnkurs i analyse 1
