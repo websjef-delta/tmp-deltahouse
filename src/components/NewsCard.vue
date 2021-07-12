@@ -26,10 +26,10 @@ export default {
 }
 .post article {
   background-color: white;
-  margin: 2rem 12vw;
+  margin: 2rem 20vw;
   padding: 4vw;
   line-height: 1.3em;
-  font-size: 2vw;
+  font-size: 2.2vh;
   text-align: center;
   border-radius: 3rem;
 }
