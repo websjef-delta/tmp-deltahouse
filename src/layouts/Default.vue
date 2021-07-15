@@ -86,11 +86,11 @@ nav ul {
   justify-content: center;
 }
 nav li {
-  margin: 0 1rem;
+  margin: 0 .5vh;
 }
 nav li a {
   display: block;
-  padding: 1rem;
+  padding: .5vh;
 }
 nav li a:hover {
   background-color: #002500;
@@ -100,7 +100,7 @@ nav {
   list-style: none;
   background-color: #005500;
   color: white;
-  font-size: 1.8rem;
+  font-size: 1.2vh;
   font-weight: 400;
 }
 a {

@@ -46,6 +46,6 @@ export default {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    margin: 0 10%;
+    
   }
 </style>

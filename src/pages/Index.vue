@@ -13,37 +13,32 @@
         >
       </div>
     </header>
-    <section id="kompendier">
-      <h1>Kompendier</h1>
-      <ul>
-        <li>
-          <g-link to="/kompendier"
-            ><g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"
-          /></g-link>
-        </li>
-        <li>
-          <g-link to="/kompendier"
-            ><g-image width="200" src="~/assets/img/MA1102.jpg" alt="MA1102"
-          /></g-link>
-        </li>
-        <li>
-          <g-link to="/kompendier"
-            ><g-image width="200" src="~/assets/img/MA1201.jpg" alt="MA1201"
-          /></g-link>
-        </li>
-        <li>
-          <g-link to="/kompendier"
-            ><g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"
-          /></g-link>
-        </li>
-        <li>
-          <g-link to="/kompendier"
-            ><g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"
-          /></g-link>
-        </li>
-      </ul>
-      <g-link class="link-button" to="/kompendier">Se alle</g-link>
-    </section>
+    <g-link to="/kompendier">
+      <section id="kompendier">
+        <h1>Kompendier</h1>
+        <ul>
+          <li>
+
+              <g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"
+            />
+          </li>
+          <li>
+              <g-image width="200" src="~/assets/img/MA1102.jpg" alt="MA1102"
+            />
+          </li>
+          <li>
+            <g-image width="200" src="~/assets/img/MA1201.jpg" alt="MA1201"
+            />
+          </li>
+          <li>
+          <g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"/>
+          <li>
+          <g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"/>
+          </li>
+        </ul>
+        <g-link class="link-button" to="/kompendier">Se alle</g-link>
+      </section>
+    /></g-link>
     <section id="nyheter">
       <h2>Nyheter</h2>
       <news-card
@@ -122,7 +117,7 @@ a {
 }
 #kompendier {
   text-align: center;
-  padding: 4rem 0;
+  margin: 2vh;
 }
 .link-button {
   font-weight: 400;
@@ -142,10 +137,11 @@ a {
 
 #kompendier li {
   list-style: none;
-  margin: 2rem 3rem;
+  margin: 1vh 0 3vh 1vw;
+  width: 15vw;
 }
 #kompendier h1 {
-  font-size: 3rem;
+  font-size: 3vh;
   margin: 2rem;
 }
 
@@ -155,8 +151,9 @@ a {
 }
 #nyheter h2 {
   color: white;
-  margin: 0 0 4rem 0;
+  padding: .6vh 0 .6vh 0;
   text-align: center;
-  font-size: 4vh;
+  font-size: 3.5vh;
+  font-weight: 700;
 }
 </style>

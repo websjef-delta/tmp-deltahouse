@@ -21,17 +21,15 @@ export default {
 <style >
 .card   {
     display: flex;
-    margin: 5rem 15%;
+    margin: 5rem 10%;
     padding-right: 1rem;
     background-color: #59A673;
-    border-radius: .5rem 1rem 6rem .5rem;
-    min-height: 437px;
+    border-radius: .5vw 1vw 5vh .5vw;
 }
 .card img{
-    margin-right: 2rem;
-    border-radius: .5rem;
-    max-width: 290px;
-    max-height: 437px;
+    margin-right: 1.5vw;
+    border-radius: .5vw;
+    max-width: 40vw;
 }
 
 .text-container {

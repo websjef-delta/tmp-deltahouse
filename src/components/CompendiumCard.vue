@@ -13,10 +13,9 @@ export default {
 </script>
 
 <style>
-.c-card h1 {
-  margin: 2rem 0 1rem 0;
-  font-size: 2rem;
-  color: white;
+.c-card h2 {
+    font-size: 1vh;
+    margin: 2rem 0 1rem 0;
 }
 .c-card img{
     width: inherit;
@@ -25,10 +24,10 @@ export default {
     align-items: center;   
     justify-content: center; 
     background-color: #59a673;
-    margin: 1rem;
-    border-radius: 2rem;
-    width: 30rem;
-    height: 30rem;
+    margin: 1vh 0 1vh 1vh;
+    border-radius: 1vh;
+    width: 15vw;
+    padding: .5vw;
 }
   
 </style>

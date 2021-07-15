@@ -2,7 +2,7 @@
   <div class="post">
     <article>
       <header>
-        <g-image width="150" :src="post.bilde" />
+
         <h1 v-html="post.title"></h1>
       </header>
       <p v-html="post.excerpt"></p>
@@ -26,10 +26,10 @@ export default {
 }
 .post article {
   background-color: white;
-  margin: 2rem 20vw;
-  padding: 4vw;
+  margin: 2vh 10vw;
+  padding: 2vh;
   line-height: 1.3em;
-  font-size: 2.2vh;
+  font-size: 1.8vh;
   text-align: center;
   border-radius: 3rem;
 }
