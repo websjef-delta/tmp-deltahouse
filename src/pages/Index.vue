@@ -19,16 +19,13 @@
         <ul>
           <li>
 
-              <g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"
-            />
+              <g-image width="200" src="~/assets/img/MA1101.jpg" alt="MA1101"/>
           </li>
           <li>
-              <g-image width="200" src="~/assets/img/MA1102.jpg" alt="MA1102"
-            />
+              <g-image width="200" src="~/assets/img/MA1102.jpg" alt="MA1102"/>
           </li>
           <li>
-            <g-image width="200" src="~/assets/img/MA1201.jpg" alt="MA1201"
-            />
+            <g-image width="200" src="~/assets/img/MA1201.jpg" alt="MA1201"/>
           </li>
           <li>
           <g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"/>
@@ -36,7 +33,7 @@
           <g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"/>
           </li>
         </ul>
-        <g-link class="link-button" to="/kompendier">Se alle</g-link>
+        <p class="link-button">Se alle</p>
       </section>
     /></g-link>
     <section id="nyheter">
@@ -120,6 +117,7 @@ a {
   margin: 2vh;
 }
 .link-button {
+  display: inline-block;
   font-weight: 400;
   font-size: 2.2rem;
   font-style: normal;
