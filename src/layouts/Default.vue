@@ -6,8 +6,6 @@
         <div>
           <g-image
             src="~/assets/img/delta.png"
-            max-height="2px"
-            width="260vw"
             alt="delta logo"
           />
         </div>
@@ -60,7 +58,7 @@ html {
   font-size: 62.5%;
 }
 #top-header {
-  font-size: 2vw;
+  font-size: 2.5vh;
   font-weight: 700;
   margin: 2rem 10vw;
 }
@@ -72,6 +70,8 @@ html {
 }
 #top-header img {
   transition: transform 0.2s;
+  height: 12vh;
+  width: auto;
 }
 #top-header img:hover {
   transform: scale(1.05);
@@ -100,7 +100,7 @@ nav {
   list-style: none;
   background-color: #005500;
   color: white;
-  font-size: 1.2vh;
+  font-size: 1.8vh;
   font-weight: 400;
 }
 a {
