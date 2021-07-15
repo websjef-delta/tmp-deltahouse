@@ -6,6 +6,7 @@
         <div>
           <g-image
             src="~/assets/img/delta.png"
+            width="380vh"
             alt="delta logo"
           />
         </div>
@@ -70,9 +71,7 @@ html {
 }
 #top-header img {
   transition: transform 0.2s;
-  height: 12vh;
-  width: auto;
-}
+  }
 #top-header img:hover {
   transform: scale(1.05);
   filter: brightness(0);
