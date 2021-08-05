@@ -1,6 +1,6 @@
 ---
 layout: committee
-title: Bedriftskomiteen
+title: BedKom
 bilde: /images/uploads/bananacorn.jpg
 ---
 Bedriftskomiteen, eller Bedkom, er Deltas bindeledd mellom studentene og arbeidslivet. Komiteen har ansvar for å informere deltakere om karrieremuligheter, holde kontakt med næringslivet og mye mer. 
