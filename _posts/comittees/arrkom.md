@@ -1,6 +1,6 @@
 ---
 layout: committee
-title: ArrKom
+title: ArrKom (Arrangementskomiteen)
 bilde: /images/uploads/bananacorn.jpg
 ---
 Arrangementskomiteen, forkortet Arrkom, er den komiteen i Delta som sørger for gjennomføringen av alle Delta sine kule arrangementer! Hvert år arrangerer vi Immatrikuleringsball, Camp Delta, julebord, Åre-tur, Det Sammensatte Ball, Amazing Race, vÅrgang og 17. mai frokost. I tillegg har Arrkom flere underkomiteer og interessegrupper, nemlig vårt eget kor, Isokor, Valensbandet, Vinkjelleren og Delta Contentum, som du kan lese mer om lengre ned på siden. 
