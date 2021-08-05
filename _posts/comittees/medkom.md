@@ -1,6 +1,6 @@
 ---
 layout: committee
-title: MedKom
+title: Mediakomiteen
 bilde: /images/uploads/bananacorn.jpg
 ---
 (Kommer infor)
