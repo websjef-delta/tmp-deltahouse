@@ -1,6 +1,6 @@
 ---
 layout: committee
-title: InKom
+title: Inkluderingskomiteen
 bilde: /images/uploads/bananacorn.jpg
 ---
 Inkluderingskomiteen er en prarplykomite for de komiteene som organiserer sosiale, lavterskelarrangementer for studentene i Delta, med et spesielt fokus på utsatte undergrupper. InKom har 4 underkomiteer som jobber med sosiale arrangementer og inkludering på hver sin måte. Dersom du er interessert i organisering av mindre lavterskel-arrangementer, sosiale sammenkomster, filmkvelder, bli kjent med internasjonale studenter eller å senke terskelen for å prate om psykisk helse, så er dette komtieen for deg. 
