@@ -8,3 +8,5 @@ Hvis det er mer du lurer på angående hva delta gjør, så er det bare å ta en
 Om det er noe du lurer på angående fadderperioden til Delta eller studiet ditt gennerelt er detbare å sende en mail til: [delta.leder@gmail.com](delta.leder@gmail.com) eller [faddersjef@gmail.com](faddersjef@gmail.com)  
 
 Vi i Linjeforeningen Delta gleder oss masse til å treffe deg nå til høsten!
+
+**Program for fadderperioden 2021:**
