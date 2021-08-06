@@ -10,3 +10,5 @@ Om det er noe du lurer på angående fadderperioden til Delta eller studiet ditt
 Vi i Linjeforeningen Delta gleder oss masse til å treffe deg nå til høsten!
 
 **Program for fadderperioden 2021:**
+
+![](/images/uploads/231489905_1148072489035979_2731385416698079987_n.jpg)
