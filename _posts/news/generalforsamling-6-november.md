@@ -41,29 +41,29 @@ Dokumentet med forhåndsmeldte kandidater til styret kommer til å bli oppdatert
 
 Ordstyrer: Petter Jacobsen
 
-Protokollfører: 
+Protokollfører: Per Kristian Røkkum Berget
 
-Dokumenter til møtet (publiseres senest 30 oktober):
+Dokumenter til møtet:
 
 Dagsorden:
 
-(kommer)
+https://s.ntnu.no/dagsorden 
 
 Nåværende statutter:
 
 <https://s.ntnu.no/Delta_statutter> 
 
-Endringsforslag:
+Endringsforslag med begrunnelser:
 
-(kommer)
+https://s.ntnu.no/endringsforslag 
 
 Regnskap H2020-V2021:
 
-(kommer)
+https://s.ntnu.no/regnskap_H2020_V2021 
 
 Budsjett H2021-V2022:
 
-(kommer)
+https://s.ntnu.no/budsjett_H2021_V2022 
 
 Stillingsbeskrivelser:
 
@@ -83,4 +83,4 @@ Styringsdokumenter:
 
 Mappe med alle relevante dokumenter:
 
-(kommer)
+https://s.ntnu.no/andre_dukumenter
