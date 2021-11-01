@@ -49,12 +49,13 @@
 
 <page-query>
   query{
-    news: allPosts(filter: {layout: {eq: "news"}}){
+    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:ASC perPage: 4){
       edges{
         node{
           path
           title
-          excerpt 
+          excerpt
+          id 
           
         }
       }
