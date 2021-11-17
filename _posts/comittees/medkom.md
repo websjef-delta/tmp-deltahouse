@@ -29,6 +29,8 @@ Pulitzerprisen, rett her i Trondheim! Der har vi tidligere år vunnet
 ærestittel som NTNUs mest nerdete avis, og det er vi i grunn ganske 
 stolte av.
 
+
+
 Mail: delta.redaksjonen@gmail.com
 
 **Design**
@@ -45,8 +47,9 @@ for å delta i Design, for du trenger å kunne kommer du til å lære!
 Om du er nysgjerrig på design, interessert i å lære mer om å bruke 
 Photoshop, ønsker å bli flinkere til å sy, eller om du bare vil lage 
 memes så er du uansett svært velkommen hos oss i Design!
-
+  
 Mail: delta.designsjef@gmail.com
+
 
 **Delta P**
 
