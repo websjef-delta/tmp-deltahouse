@@ -1,5 +1,7 @@
-# Medkom     
-
+---
+title: MedKom
+bilde: //
+---
 Er du kreativ av natur? Enten du vil utfordre deg selv på nye og spennende områder eller bare ønsker å ha det gøy med medstudentene dine har du uansett kommet til riktig sted! Mediakomitéen, også kjent som MedKom, er Deltas kanal ut til omverdenen, og er en essensiell del av linjeforeningens drift og studentenes trivsel. Som medlem i MedKom kan du prøve deg som journalist og tekstforfatter, regissør, skuespiller, grafisk designer, håndverker, IT-guru og mye mer! Her vil du bli bedre kjent med LaTeX som format, og ikke minst få tilgang til en rekke av industriens beste redigeringsprogrammer for alt fra fotografi og digital kunst til lyd, animasjon og film. I MedKom er det virkelig kun kreativiteten som setter grenser!
 
 Bli med i MedKom og skap historie! Push deg selv ut av komfortsonen og sett ditt unike særpreg på Deltas ansikt utad.
@@ -27,8 +29,6 @@ Pulitzerprisen, rett her i Trondheim! Der har vi tidligere år vunnet
 ærestittel som NTNUs mest nerdete avis, og det er vi i grunn ganske 
 stolte av.
 
-
-
 Mail: delta.redaksjonen@gmail.com
 
 **Design**
@@ -45,9 +45,8 @@ for å delta i Design, for du trenger å kunne kommer du til å lære!
 Om du er nysgjerrig på design, interessert i å lære mer om å bruke 
 Photoshop, ønsker å bli flinkere til å sy, eller om du bare vil lage 
 memes så er du uansett svært velkommen hos oss i Design!
-  
-Mail: delta.designsjef@gmail.com
 
+Mail: delta.designsjef@gmail.com
 
 **Delta P**
 
