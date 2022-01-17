@@ -7,4 +7,4 @@ Denne våren var Deltas bursdagsfeiring - og jubileum - planlagt til å avholdes
 
 Jubileumet blir flyttet til neste vår, ettersom vi er veldig optimistiske på at smitten skal være i hovedsak borte, og at brorparten av Trondheims befolkning skal være vaksinerte til den tid. For å hvertfall markere litt på selve 47-årsdagen kommer det til å bli gjennomført en livestream og litt småarrangementer i dagene rundt 14. mars nå i år. Vi håper dere vil delta på disse, og at dere smører dere med tolmodighet til et storslagent og fantastisk jubileum til neste år! 
 
-Med vennlig hilsen Jubileumskomiteen
+Med vennlig hilsen Jubileumskomiteen  
