@@ -1,7 +1,7 @@
 ---
 layout: committee
 title: MedKom
-bilde: /images/uploads/eltahousestyledelta.jpg
+bilde: '""'
 ---
 Er du kreativ av natur? Enten du vil utfordre deg selv på nye og spennende områder eller bare ønsker å ha det gøy med medstudentene dine har du uansett kommet til riktig sted! Mediakomitéen, også kjent som MedKom, er Deltas kanal ut til omverdenen, og er en essensiell del av linjeforeningens drift og studentenes trivsel. Som medlem i MedKom kan du prøve deg som journalist og tekstforfatter, regissør, skuespiller, grafisk designer, håndverker, IT-guru og mye mer! Her vil du bli bedre kjent med LaTeX som format, og ikke minst få tilgang til en rekke av industriens beste redigeringsprogrammer for alt fra fotografi og digital kunst til lyd, animasjon og film. I MedKom er det virkelig kun kreativiteten som setter grenser!
 
