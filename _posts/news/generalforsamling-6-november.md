@@ -83,4 +83,4 @@ Styringsdokumenter:
 
 Mappe med alle relevante dokumenter:
 
-https://s.ntnu.no/andre_dukumenter
+https://s.ntnu.no/andre_dukumenter  
