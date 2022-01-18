@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Nyopprettet nettside
-bilde: /images/uploads/banner.jpg
+bilde: ""
 ---
 Hei alle sammen og velkommen tilbake til Deltahouse! \
 \
