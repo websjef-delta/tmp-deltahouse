@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Generalforsamling 6. November
-bilde: /images/uploads/banner.jpg
+bilde: ""
 ---
 Styret til Linjeforeningen Delta inviterer til årets Generalforsamling den 6. november 2021, kl. 12 i R7 på Realfagbygget. Generalforsamlingen er Linjeforeningens øverste organ og årets viktigste møte i Delta. Alle aktive Deltagere er hjertelig velkommen og oppfordres på det sterkeste å komme for å bruke deres stemme. Tingene generalforsamlingen skal gå igjennom er:
 
