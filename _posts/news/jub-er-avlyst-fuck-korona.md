@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Jubileum utsettes til neste år
-bilde: https://www.volvat.no/globalassets/images/coronavirus.jpg?w=1500&h=1000&mode=&scale=&anchor=
+bilde: ""
 ---
 Denne våren var Deltas bursdagsfeiring - og jubileum - planlagt til å avholdes den 13. mars. Vi var frem til relativt nylig optimistiske på å få gjennomført jubileumet, da det så tilsynelatende ut som om smitten var på vei ned, og at folk ble vaksinerte. Med oppblussingen av den nye varianten av COVID-19, samt at vi fikk muligheten til å kansellere kostnadsfritt fra hotellet, har arrangørene av jubileumet i samarbeid med deltastyret bestemt at jubileumet utsettes. Dette er selvfølgelig utrolig kjipt, men vi håper dere alle har forståelse for dette... 
 
