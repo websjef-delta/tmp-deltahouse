@@ -1,14 +1,9 @@
-# Default starter for Gridsome
+# Hovedrepo for deltahouse
 
-This is the project you get when you run `gridsome create new-project`.
-
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Følg disse instruksene etter du har klonet repoet lokalt:
+1. Installer [node.js](https://nodejs.org/en/) (bruk LTS ikke Current) 
+2. Åpne et terminalvindu og sjekk at node er installert riktig ved å kjøre `node -v` som bør gi v16.13.2 og `npm -v` som bør gi 8.3.0
+3. Bruk npm til å installere yarn ved bruk av terminalen: `npm install --global yarn` og sjekk at yarn er v1.22.x `yarn -v`
+4. `yarn global add @gridsome/cli`for å installere gridsome globalt og sjekk at det funka med `gridsome -v`
+5. naviger til mappa tmp-deltahouse i terminalen og kjør `yarn install` (ikke noe etter install)
+6. Fra tmp-deltahouse, kjør `gridsome develop`om denne kjører som den skal, lages en lokal versjon av deltahouse som dere kan åpne i nettlesern 
