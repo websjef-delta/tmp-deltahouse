@@ -34,7 +34,7 @@ boardmembers:
 
 
       Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og tilbringer nå sitt andre år i Deltastyret som leder av foreningen.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/led.png
     mail: delta.leder@gmail.com
     number: 908 61 296
   - navn: Guro Rio Berge
@@ -55,12 +55,12 @@ boardmembers:
       (\*kremt kremt\*) jobbende på bacheloren. Så om du oppholder deg på noen
       av disse lokasjonene lenge nok ( > 5min), vil du med god sannsynlighet
       møte på ho og kan slå av ein prat!
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/nes.png
     mail: delta.nestleder@gmail.com
     number: 947 89 826
   - navn: Sander Klokk
     position: Økonomisjef
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/øk.png
     aboutme: >-
       Sander kom til Trondheim rett etter videregående klar for å studere matte
       og møte nye folk.
@@ -84,7 +84,7 @@ boardmembers:
 
 
       Han var likevel klar til å bli noe stort, men endte istedenfor opp med å bli matamatiker. Her møtte han på Delta og fant ut at dette er stedet han hører hjemme. Som evig ung endte han fort opp med å bli utnevnt til neste års Faddersjef fra og med dag 1. Uvitende om hva det måtte bringe, kastet han seg inn i sitt første verv. Nå er han klar til å ta imot årets fadderbarn.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/fad.png
     mail: faddersjef@gmail.com
     number: 989 98 080
   - navn: Pia Johanne Skeide
@@ -97,7 +97,7 @@ boardmembers:
       tilfeldighet. Her oppdaget hun gratis kaffe, og siden den gang har hun
       gått gjennom 4 kaffekopper uten å komme seg ut. Nå er hun blitt ArrKomsjef
       og har som mål å lage de beste arrangementene Delta har sett
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/arr.png
     mail: delta.arrkom@gmail.com
     number: 452 51 704
   - navn: Espen van Beuzekom
@@ -108,7 +108,7 @@ boardmembers:
       tiden etter, hvor han blant annet solgte seg selv på en auksjon. Etter et
       hardt år i styret valgte han å stille til samme stilling igjen for å
       fortsette det han startet på.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/bed.png
     mail: bedrift.delta@gmail.com
     number: 467 72 567
   - navn: Thomas Agung Dibpa Anandita Thrane
@@ -123,7 +123,7 @@ boardmembers:
       etter mange gode opplevelser med koret Isokor, fadderperioden, og andre
       Delta arrangementer, innså han at han følte seg hjemme. Derfor bestemte
       han seg for å bli FagKomsjef."
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/fag.png
     mail: delta.fagsjef@gmail.com
     number: 467 86 685
   - navn: Joy Haina Sørbotten
@@ -146,7 +146,7 @@ boardmembers:
       minoritetsgruppene i Delta (ikke bare i form av hennes eksistens) og å
       inkludere de som inkluderes kan! Når du ser henne på kontoret, er du mer
       enn VelKommen til å slå av en prat.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/inn.png
     mail: delta.inkomsjef@gmail.com
     number: 414 55 917
   - navn: Eivind Svae
@@ -166,7 +166,7 @@ boardmembers:
       oppfyller med det NTNUs ambisjoner om tverrfaglig kompetanse. Om du ser
       Eivind, ikke vær redd for å slå av en prat, han er nesten hyggelig
       innimellom.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/kom.png
     mail: komkomsjef@gmail.com
     number: 469 47 444
   - navn: Andrine Haugdal
@@ -182,7 +182,7 @@ boardmembers:
       mange komiteer, og ble til og med valgt til faddersjef i 2021.
 
       Nå er hun klar for å lede MedKom, en komité som lar henne utforske sine kreative interesser i en ellers faglig hverdag.
-    bilde: /images/uploads/eltahousestyledelta.jpg
+    bilde: /images/uploads/med.png
     mail: medkomsjef@gmail.com
     number: 941 99 999
 ---
