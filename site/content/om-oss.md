@@ -1,19 +1,18 @@
 ---
 title: Om Delta
 intro: >-
-  Linjeforeningen Delta er foreningen som ordner med et sosialt tilbund for alle
-  studenter som har startet på bechelor, master eller årstudium i matematiske
-  fag og bechelor eller master i fysikk ved NTNU. Delta arrangere større ting
-  som Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg
-  har vi gjevnlige kollogkvier, fagforedrag, spillkvelder, quiz avisslipp og
-  mye, mye mer. 
+  Linjeforeningen Delta er foreningen som ordner med et sosialt tilbud for alle
+  studenter som har startet på bachelor, master eller årsstudium ting som
+  Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg har
+  vi jevnlige fagkollokvier, foredrag, spillkvelder, quiz avisslipp og mye, mye
+  mer. 
 
 
-  Uten om dette skjer er mye av aktiviteten som skjer i Delta sine kommiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge. Hvem er det som kan være med på dette? Spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta! \
+  Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta! \
 
   \
 
-  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta det ***n*** gratis kopper kaffe og slå av en pra da vell!
+  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta ***n*** gratis kopper kaffe og slå av en prat da vel!
 heading-om-styret: Om Styret
 body-om-styret: >-
   Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
