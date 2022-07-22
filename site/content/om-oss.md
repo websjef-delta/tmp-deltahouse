@@ -7,10 +7,12 @@ intro: >-
   vi jevnlige fagkollokvier, foredrag, spillkvelder, quiz avisslipp og mye, mye
   mer. 
 
+  <br/>
 
-  Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta! \
 
-  \
+  Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
+
+  <br/>
 
   Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta ***n*** gratis kopper kaffe og slå av en prat da vel!
 heading-om-styret: Om Styret
