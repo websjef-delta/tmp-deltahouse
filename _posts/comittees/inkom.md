@@ -20,6 +20,8 @@ CosKom står for de mindre sosiale, lavterskel og alkoholfrie-arrangementene i D
 
 Mail: [delta.cosesjef@gmail.com](https://www.deltahouse.no/komiteer/komkom/delta.cosesjef@gmail.com)
 
+
+
 **Delta Utenriks**   
 Delta Utenriks er komiteen for de som ønsker å jobbe for å skape et sosialt nettverk for de internasjonale studentene som kommer til Trondheim for å studere på våres studier. De jobber for å introdusere dem til Delta og norske studenter, og for å inkludere dem så mye som mulig fra tidlig i semesteret. Resten av semesteret jobber Delta Utenriks med å arrangere ulike mindre arrangementet hvor fokuset er å få de internasjonale studentene og de norske studentene til å møtes og bli kjent. Eksempler på arrangementer som har blitt arrangert tidligere er: Escape Room, Speedfriending, Nyttårsbord og International Food Night. 
 
