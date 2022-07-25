@@ -5,12 +5,13 @@ bilde: /images/uploads/arrkom2.png
 ---
 Arrangementskomiteen, forkortet Arrkom, er den komiteen i Delta som sørger for gjennomføringen av alle Delta sine kule arrangementer! Hvert år arrangerer vi Immatrikuleringsball, Camp Delta, julebord, Åre-tur, Det Sammensatte Ball, Amazing Race, vÅrgang og 17. mai frokost. I tillegg har Arrkom flere underkomiteer og interessegrupper, nemlig vårt eget kor, Isokor, Valensbandet, Vinkjelleren og Delta Contentum, som du kan lese mer om lengre ned på siden. 
 
+<img src="/images/uploads/ball.jpeg" width="500" height="350" title="Deltas jubileum 2022" align="right">
+
+
 Arrkom er altså en stor og sammensatt komite, og har en viktig rolle for å tilby Deltas medlemmer aktiviteter og arrangementer man kan delta på, og det er stort spekter i hva man kan jobbe med innad i komiteen. For å gjennomføre et arrangement trenger man blant annet noen som kan ha ansvar for pynt av lokalet, fikse program og plakater, ofte i samarbeid med Designkom, man trenger folk som kan ordne logistikk og transport av utstyr til lokalet, flere som kan jobbe med underholdning og det som skal skje på scena, og vi trenger folk til å styre promoteringen og sørge for at folk melder seg på, for å nevne det viktigste. Det er med andre ord veldig varierte arbeidsoppgaver, både innad hvert arrangement og fra arrangement til arrangement! 
 
 Sitter du inne med noen kule arrangementer som vi bør arrangere i framtiden? Har du lyst til å være med i planleggingen, eller ha hovedansvaret for gjennomføringen av et arrangement? Vet du om noe som kan gjøre arrangementene våre enda bedre? Har du lyst til å jobbe med pynting, logistikk, underholdning eller kanskje være konferansier? Da må du melde deg inn i Deltas viktigste komite, nemlig Arrkom! 
 
-
-<img src="/images/uploads/ball.jpeg" width="500" height="350" title="Deltas jubileum 2022" align="center">
 
 #### **Underkomiteer/ interessegruppe**
 
