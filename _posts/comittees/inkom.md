@@ -6,7 +6,7 @@ bilde: /images/uploads/inkom1.png
 Inkluderingskomiteen er en prarplykomite for de komiteene som organiserer sosiale, lavterskelarrangementer for studentene i Delta, med et spesielt fokus på utsatte undergrupper. InKom har fire underkomiteer som jobber med sosiale arrangementer og inkludering på hver sin måte. Dersom du er interessert i organisering av mindre lavterskel-arrangementer, sosiale sammenkomster, filmkvelder, bli kjent med internasjonale studenter eller å senke terskelen for å prate om psykisk helse, så er dette komtieen for deg. 
 
 
-<img src="images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" "Deltas damer spiser middag sammen">
+<img src="images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" title="Deltas damer spiser middag sammen">
 
 
 **KvinneKom**\
@@ -18,7 +18,7 @@ Andre tilbud for jenter i linjeforeningen Delta:
 
 * [Jenteprosjektet Ada](https://www.ntnu.no/jenter/ada)
 
-<img src="/images/uploads/img_6427.jpg"  width="300" height="200" align="right" "En av CosKoms biukentlige spillkvelder">
+<img src="/images/uploads/img_6427.jpg"  width="300" height="200" align="right" title="En av CosKoms biukentlige spillkvelder">
 
 **CosKom**\
 CosKom står for de mindre sosiale, lavterskel og alkoholfrie-arrangementene i Delta. De arrangerer alt fra spillkvelder og filmkvelder til bakekvelder og malekurs. De gjennomfører også perlekvelder, juleverksted og ekskursjoner. CosKom er kjent for å ha de beste møtene fylt med te, kaffe kjeks og kosedyr. Alt i alt er CosKom der for å gi alle deltagere et avbrekk fra den travle studieverdagen.
