@@ -49,4 +49,4 @@ Delta Contentum, DC, er Deltas lyd- og lyskomité som ble opprettet høsten 2018
 
 DCs medlemmer får tilgang til generelle komitémedlemsfordeler, grunnleggende opplæring i lyd-/lysteknikk og gratis inngang på arrangementer man er hovedansvarlig for på vegne av DC. 
 
-DC driver også utleie av utstyr til en rimelig pris, inkludert ulike typer mikrofoner, høyttalere, stativer og diverse. For mer informasjon, ta kontakt med [delta.contentum@gmail.com](delta.contentum@gmail.com)
+DC driver også utleie av utstyr til en rimelig pris, inkludert ulike typer mikrofoner, høyttalere, stativer og diverse. For mer informasjon, ta kontakt med <delta.contentum@gmail.com>
