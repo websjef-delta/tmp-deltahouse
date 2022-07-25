@@ -24,7 +24,7 @@ Isokor er linjeforeningskoret til Delta og vi er et utrolig lavterskelkor. Etter
 
 Om dette høres ut som noe for deg så er det bare å komme på en øving, vi gleder oss til å se deg der! 
 
-**Valensbandet:** 
+**Valensbandet** 
 
 Valensbandet har vært Deltas husband helt siden oppstarten i 2015. Vi er ansvarlig for musikken på Deltas arrangementer, og øver ellers ofte sammen gjennom semesteret. I likhet med hvordan elektroner beveger seg fritt i valensbåndet har valensbandet fri flyt av medlemmer. Hvis du føler du har et instrument du kan bidra med eller har lyst til å lære, er det bare å bli med oss og jamme! Bandet er lavterskel, og du bestemmer selv om du vil bli med å opptre på et arrangement eller bare jamme hvis du ikke er klar for å stå på scenen. 
 
