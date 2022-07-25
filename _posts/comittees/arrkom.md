@@ -9,7 +9,10 @@ Arrkom er altså en stor og sammensatt komite, og har en viktig rolle for å til
 
 Sitter du inne med noen kule arrangementer som vi bør arrangere i framtiden? Har du lyst til å være med i planleggingen, eller ha hovedansvaret for gjennomføringen av et arrangement? Vet du om noe som kan gjøre arrangementene våre enda bedre? Har du lyst til å jobbe med pynting, logistikk, underholdning eller kanskje være konferansier? Da må du melde deg inn i Deltas viktigste komite, nemlig Arrkom! 
 
-#### **Underkomiteer/ interessegruppe** 
+
+<img src="/images/uploads/ball.jpeg" width="500" height="350" title="Deltas jubileum 2022" align="center">
+
+#### **Underkomiteer/ interessegruppe**
 
 I motsetning til de fleste andre hovedkomiteer i Delta, trenger man ikke å være medlem i selve Arrkom for å kunne delta i våre underkomiteer og interessegruppe! Man kan selvsagt være medlem i Arrkom i tillegg, eller i flere underkomiteer av gangen, men vi har altså ikke krav om at du for eksempel må være med å arrangere Immball for å kunne synge i koret eller spille i bandet.
 
