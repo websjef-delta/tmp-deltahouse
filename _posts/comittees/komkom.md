@@ -14,6 +14,8 @@ Noe av det beste med Komkom er mulighetene for å starte opp nye underkomiteer o
 **Vaffkaff (Vaffel og kaffe komiteen):**
 Er du glad i kaffe, å spre glede til andre medstudenter og vafler? Da er vaffel og kaffe komiteen noe for deg! Vaffkaff selger vafler utenfor Delta sitt linjeforeningskontor alt fra to til fire ganger i måneden for alle som skulle ønske seg noe godt å spise i løpet av studiedagen. Det underliggende målet til Vaffkaff er å kunne finansiere kaffebruken til deltagerne på studiet sitt, men vaffelsalget ender alltid med godt humør og en fin pause fra en travel studiehverdag.
 
+* [VaffKaff sin likepage](https://www.facebook.com/VaffKaffDelta)
+
 **Deltas Bryggelaug:**
 Dersom du er glad i øl, eller interessert i hvordan byggeprosessen egentlig fungerer kan du kose deg mye i denne underkomiteen. Deltas Bryggelaug arrangerer mange årlige brygg for alle som er interesserte i å delta på prosessen fra start til slutt. Bryggelauget har mange år med erfaring innenfor ølbrygging, noe som kan vises med prisen de fikk fra Gløshaugen Bryggeforum med ølet «INSERT NAME HER» som ble kåret til det beste hjemmebrygg på Gløshaugen i 2012. Ølet som brygges av lauget blir drukket på teambuilding med resten av underkomiteen. Teambuilding er noe som skjer et par gagner i året, og man får smakt på det som har blitt brygget den siste perioden. og gjøre opp meninger på resultatet. Smaking av ølet man har brukt tid og krefter på å brygge kan definitivt bli sett på som høydepunktet av hele prosessen. 
 
@@ -22,6 +24,8 @@ Dersom du er glad i øl, eller interessert i hvordan byggeprosessen egentlig fun
 
 **Noenkom:**
 Har du noen gang hatt en god ide eller lagt merke til et lite problem og tenkt at noen burde gjøre noe med saken? Vel frykt ikke for Noenkomiteen kan ordne opp i saken! Noenkom gjør det «noen burde gjøre». Dette kan være alt mulig rart som ikke faller under en annen sitt ansvarsområde. Forslagene man har kan lett sendes inn til lederen av underkomiteen, Noen, via et skjema som henger på linjeforeningskontoret. Denne underkomiteen har en struktur som er noe for seg selv, og som kan være forvirrende å sette seg inn i til å starte med. Men dersom du er interessert i å finne ut av hva Noenkom egentlig holder på med. Hvem Noen, Noen Andre, Vi, De eller Hvem er, hvordan medlemsgrader fungerer eller hvorfor underkomiteen feirer jubileum på IKEA så kan det være en ide å melde seg inn i denne underkomiteen for å komme til bunns i saken.
+
+* [Noen sin likepage](https://www.facebook.com/NoenKom)
 
 **Kontorkom**
 «Det er mye som kan bli sagt om Trondheim by, men allikevel Deltakontoret». Kontoret blir av mange sett på som et hjem for alle deltagere, og det er ikke uvanlig å tilbringe litt for mye tid her i løpet av hverdagen. Kontor komiteen er underkomiteen som tar vare på dette fellesarealet på vegne av alle medlemmene til Delta. Dette kan gå ut på å pynte kontoret for enkelte høytider, eller reparere kjøleskapet som relativt ofte går i stykker. De korte møtene til Kontorkom blir holdt på kontoret, og blir ofte etterfulgt av en sosial samling etterpå.
