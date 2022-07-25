@@ -184,6 +184,6 @@ boardmembers:
     mail: medkomsjef@gmail.com
     number: 941 99 999
 ---
-## Tidligere styrer: (Kommer)
+## Tidligere styrererererer: (Kommer)
 
 ![2021 styret](/images/uploads/felles_2_bw.jpg "2021 styret:")
