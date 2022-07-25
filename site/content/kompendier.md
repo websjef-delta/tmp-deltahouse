@@ -1,7 +1,8 @@
 ---
-intro: Vi tilbyr kompendier i alle intro fysikkfag for Siginglinjer. I tilleg
+intro: "Vi tilbyr kompendier i alle intro-fysikkfag for Sivinglinjer. I tillegg
   tilbyr vi kompendium i flere matematikkfag. En komplett liste ser du nedenfor.
-  Kompendiom kan kjøpes på kontoret vårt.
+  Kompendiene kan kjøpes på kontoret vårt, som du finner her:
+  https://link.mazemap.com/Jrea0Kfr"
 the_compendiums:
   - compendium:
       title: MA1101 Grunnkurs i analyse 1
