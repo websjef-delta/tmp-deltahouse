@@ -5,6 +5,10 @@ bilde: /images/uploads/inkom1.png
 ---
 Inkluderingskomiteen er en prarplykomite for de komiteene som organiserer sosiale, lavterskelarrangementer for studentene i Delta, med et spesielt fokus på utsatte undergrupper. InKom har fire underkomiteer som jobber med sosiale arrangementer og inkludering på hver sin måte. Dersom du er interessert i organisering av mindre lavterskel-arrangementer, sosiale sammenkomster, filmkvelder, bli kjent med internasjonale studenter eller å senke terskelen for å prate om psykisk helse, så er dette komtieen for deg. 
 
+
+<img src="images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" "Deltas damer spiser middag sammen">
+
+
 **KvinneKom**\
 KvinneKom ble opprettet i 2014 for å styrke samholdet og øke deltagelse blant kvinnene i linjeforeningen. Dette har helt klart forbedret seg siden komiteen ble opprettet, men det kan fortsatt gjøres enda bedre. Jobben deres er å skape et godt sosialt og faglig miljø for jentene på studiet. De jobber for å arrangere små og store arrangementer i løpet av semesteret for å skape et godt miljø blant jentene og få flere jenter til å engasjere seg i linjeforeningen. Har du lyst til å gjøre linjeforeningen Delta til et hyggeligere sted, både for kvinner og menn? Da bør du melde deg inn i KvinneKom. 
 
@@ -14,16 +18,12 @@ Andre tilbud for jenter i linjeforeningen Delta:
 
 * [Jenteprosjektet Ada](https://www.ntnu.no/jenter/ada)
 
-<img src="/images/uploads/img_6427.jpg"  width="300" height="200" align="right">
-
+<img src="/images/uploads/img_6427.jpg"  width="300" height="200" align="right" "En av CosKoms biukentlige spillkvelder">
 
 **CosKom**\
 CosKom står for de mindre sosiale, lavterskel og alkoholfrie-arrangementene i Delta. De arrangerer alt fra spillkvelder og filmkvelder til bakekvelder og malekurs. De gjennomfører også perlekvelder, juleverksted og ekskursjoner. CosKom er kjent for å ha de beste møtene fylt med te, kaffe kjeks og kosedyr. Alt i alt er CosKom der for å gi alle deltagere et avbrekk fra den travle studieverdagen.
 
 Mail: [delta.cosesjef@gmail.com](https://www.deltahouse.no/komiteer/komkom/delta.cosesjef@gmail.com)
-
-
-
 
 **Delta Utenriks**\
 Delta Utenriks er komiteen for de som ønsker å jobbe for å skape et sosialt nettverk for de internasjonale studentene som kommer til Trondheim for å studere på våres studier. De jobber for å introdusere dem til Delta og norske studenter, og for å inkludere dem så mye som mulig fra tidlig i semesteret. Resten av semesteret jobber Delta Utenriks med å arrangere ulike mindre arrangementet hvor fokuset er å få de internasjonale studentene og de norske studentene til å møtes og bli kjent. Eksempler på arrangementer som har blitt arrangert tidligere er: Escape Room, Speedfriending, Nyttårsbord og International Food Night. 
