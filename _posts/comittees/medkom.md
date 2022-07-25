@@ -54,6 +54,10 @@ memes så er du uansett svært velkommen hos oss i Design!
 Mail: [delta.designsjef@gmail.com](delta.designsjef@gmail.com)
 
 
+<img src="/images/uploads/podcasten.png
+" alt="Innspilling av podcastepisode" widtth="300" height="220" align="right">
+
+
 **Delta P**
 
 Delta P er podcasten til Delta. De produserer selvfølgelig podcaster, men også 
