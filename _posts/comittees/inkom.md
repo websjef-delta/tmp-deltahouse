@@ -7,7 +7,7 @@ Inkluderingskomiteen er en prarplykomite for de komiteene som organiserer sosial
 
 ![](/images/uploads/img-20220127-wa0001.jpg)
 
-<img src="/images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" title="Deltas damer spiser middag sammen">
+<img src="/images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right">
 
 **KvinneKom**\
 KvinneKom ble opprettet i 2014 for å styrke samholdet og øke deltagelse blant kvinnene i linjeforeningen. Dette har helt klart forbedret seg siden komiteen ble opprettet, men det kan fortsatt gjøres enda bedre. Jobben deres er å skape et godt sosialt og faglig miljø for jentene på studiet. De jobber for å arrangere små og store arrangementer i løpet av semesteret for å skape et godt miljø blant jentene og få flere jenter til å engasjere seg i linjeforeningen. Har du lyst til å gjøre linjeforeningen Delta til et hyggeligere sted, både for kvinner og menn? Da bør du melde deg inn i KvinneKom. 
