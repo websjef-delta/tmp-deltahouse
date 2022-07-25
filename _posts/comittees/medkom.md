@@ -3,7 +3,7 @@ layout: committee
 title: MedKom
 bilde: /images/uploads/medkom1.png
 ---
-Er du kreativ av natur? Enten du vil utfordre deg selv på nye og spennende områder eller bare ønsker å ha det gøy med medstudentene dine har du uansett kommet til riktig sted! Mediakomitéen, også kjent som MedKom, er Deltas kanal ut til omverdenen, og er en essensiell del av linjeforeningens drift og studentenes trivsel. Som medlem i MedKom kan du prøve deg som journalist og tekstforfatter, regissør, skuespiller, grafisk designer, håndverker, IT-guru og mye mer! Her vil du bli bedre kjent med LaTeX som format, og ikke minst få tilgang til en rekke av industriens beste redigeringsprogrammer for alt fra fotografi og digital kunst til lyd, animasjon og film. I MedKom er det virkelig kun kreativiteten som setter grenser!
+Er du kreativ av natur? Enten du vil utfordre deg selv på nye og spennende områder eller bare ønsker å ha det gøy med medstudentene dine har du uansett kommet til riktig sted! Mediakomiteen, også kjent som MedKom, er Deltas kanal ut til omverdenen, og er en essensiell del av linjeforeningens drift og studentenes trivsel. Som medlem i MedKom kan du prøve deg som journalist og tekstforfatter, regissør, skuespiller, grafisk designer, håndverker, IT-guru og mye mer! Her vil du bli bedre kjent med LaTeX som format, og ikke minst få tilgang til en rekke av industriens beste redigeringsprogrammer for alt fra fotografi og digital kunst til lyd, animasjon og film. I MedKom er det virkelig kun kreativiteten som setter grenser!
 
 Bli med i MedKom og skap historie! Push deg selv ut av komfortsonen og sett ditt unike særpreg på Deltas ansikt utad.
 
@@ -32,12 +32,12 @@ stolte av.
 
 
 
-Mail: delta.redaksjonen@gmail.com
+Mail: [delta.redaksjonen@gmail.com](delta.redaksjonen@gmail.com)
 
 **Design**
 
 Om du også syns det er fint å få bruke dine kreative sider ved siden 
-av et svært teoretisk studie, så er Designkomitéen for deg. I Design 
+av et svært teoretisk studie, så er Designkomiteen for deg. I Design 
 fins det en givende jobb som passer til alle, uavhengig om du har drevet 
 med noen som helst form for kunst siden ungdomsskolen eller ikke. Du kan 
 skape noe digitalt, som ved å bl.a. designe logoer, plakater og bannere 
@@ -49,7 +49,7 @@ Om du er nysgjerrig på design, interessert i å lære mer om å bruke
 Photoshop, ønsker å bli flinkere til å sy, eller om du bare vil lage 
 memes så er du uansett svært velkommen hos oss i Design!
   
-Mail: delta.designsjef@gmail.com
+Mail: [delta.designsjef@gmail.com](delta.designsjef@gmail.com)
 
 
 **Delta P**
@@ -62,7 +62,7 @@ Du kan høre oss i Spotify, Apple podcast, eller hvilken som helst annen podcast
 Vi har også en [youtube kanal](https://www.youtube.com/channel/UC1WDrrtnlW0oIfSP6_azSuA) 
 der vi laster opp alle musikkvideoene.
 
-Mail: delta.podcasting@gmail.com
+Mail: [delta.podcasting@gmail.com](delta.podcasting@gmail.com)
 
 **Delta V** 
 
@@ -79,10 +79,10 @@ gode idéer vil bli til virkelighet!
 
 Videoene kan sees på Deltas [youtube kanal](https://www.youtube.com/channel/UCW6mgAETx5tY666gD7cMmNw).
 
-Mail: delta.videosjef@gmail.com
+Mail: [delta.videosjef@gmail.com](delta.videosjef@gmail.com)
 
 **KomIT**   
 
 KomIT står for å lage denne shitty nettsida. 
 
-Mail: delta.websjef@gmail.com
+Mail: [delta.websjef@gmail.com](delta.websjef@gmail.com])
