@@ -16,7 +16,7 @@ Sitter du inne med noen kule arrangementer som vi bør arrangere i framtiden? Ha
 
 I motsetning til de fleste andre hovedkomiteer i Delta, trenger man ikke å være medlem i selve Arrkom for å kunne delta i våre underkomiteer og interessegruppe! Man kan selvsagt være medlem i Arrkom i tillegg, eller i flere underkomiteer av gangen, men vi har altså ikke krav om at du for eksempel må være med å arrangere Immball for å kunne synge i koret eller spille i bandet.
 
-<img src="/images/uploads/isokor.jpeg" width="300" height="200" title="Isokor opptrer" align="right">
+<img src="/images/uploads/isokor.jpg" width="300" height="300" title="Isokor opptrer" align="right">
 
 
 **Isokor:** 
@@ -28,7 +28,7 @@ Isokor er linjeforeningskoret til Delta og vi er et utrolig lavterskelkor. Etter
 Om dette høres ut som noe for deg så er det bare å komme på en øving, vi gleder oss til å se deg der! 
 
 
-<img src="/images/uploads/valensbandet.jpeg" width="300" height="200" title="valensbandet opptrer" align="right">
+<img src="/images/uploads/valensbandet.jpg" width="300" height="300" title="valensbandet opptrer" align="right">
 
 
 **Valensbandet** 
