@@ -20,7 +20,7 @@ I motsetning til de fleste andre hovedkomiteer i Delta, trenger man ikke å vær
 <img src="/images/uploads/isokor.jpg" width="300" height="300" title="Isokor opptrer" align="right">
 
 
-**Isokor:** 
+**Isokor** 
 
 Det er lite som er så morsomt som å møte venner hver uke, prate skitprat og spise kaker, tørre kjeks og frukt. Om du da legger til litt sang i miksen så har du skjønt hvordan det er å være med i Isokor, koret med konstant trykk! 
 
