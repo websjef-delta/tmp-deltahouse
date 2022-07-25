@@ -17,8 +17,6 @@ Er du glad i kaffe, å spre glede til andre medstudenter og vafler? Da er vaffel
 **Deltas Bryggelaug:**
 Dersom du er glad i øl, eller interessert i hvordan byggeprosessen egentlig fungerer kan du kose deg mye i denne underkomiteen. Deltas Bryggelaug arrangerer mange årlige brygg for alle som er interesserte i å delta på prosessen fra start til slutt. Bryggelauget har mange år med erfaring innenfor ølbrygging, noe som kan vises med prisen de fikk fra Gløshaugen Bryggeforum med ølet «INSERT NAME HER» som ble kåret til det beste hjemmebrygg på Gløshaugen i 2012. Ølet som brygges av lauget blir drukket på teambuilding med resten av underkomiteen. Teambuilding er noe som skjer et par gagner i året, og man får smakt på det som har blitt brygget den siste perioden. og gjøre opp meninger på resultatet. Smaking av ølet man har brukt tid og krefter på å brygge kan definitivt bli sett på som høydepunktet av hele prosessen. 
 
-**ΔS:**
-DeltaS er underkomiteen i Delta som driver med alt av sportslige arrangementer. Dette kan være alt fra tur og joggetur til ballsporter som volleyball. Denne underkomiteen er en flott måte å drive med allerede godt kjente idretter, eller for å prøve ut noe helt nytt i et lavterskel miljø. Her kan man møte mange likesinnede deltagere som er glade i både tur, jogging, volleyball, klatring, ski og mye mer! Dersom det er en sport denne underkomiteen ikke driver med er det bare å fyre løs et forslag om å prøve ut idretten uten at ideen vil falle på døve ører.
 
 <img src="/images/uploads/noenkom.jpeg" width="300" height="180" align="right" title="noenkomlogoen">
 
@@ -27,6 +25,11 @@ Har du noen gang hatt en god ide eller lagt merke til et lite problem og tenkt a
 
 **Kontorkom**
 «Det er mye som kan bli sagt om Trondheim by, men allikevel Deltakontoret». Kontoret blir av mange sett på som et hjem for alle deltagere, og det er ikke uvanlig å tilbringe litt for mye tid her i løpet av hverdagen. Kontor komiteen er underkomiteen som tar vare på dette fellesarealet på vegne av alle medlemmene til Delta. Dette kan gå ut på å pynte kontoret for enkelte høytider, eller reparere kjøleskapet som relativt ofte går i stykker. De korte møtene til Kontorkom blir holdt på kontoret, og blir ofte etterfulgt av en sosial samling etterpå.
+
+<img src="/images/uploads/turkom.jpg" widtg="300" height="200" align="right" title="Tur i fadderuka">
+
+**ΔS:**
+DeltaS er underkomiteen i Delta som driver med alt av sportslige arrangementer. Dette kan være alt fra tur og joggetur til ballsporter som volleyball. Denne underkomiteen er en flott måte å drive med allerede godt kjente idretter, eller for å prøve ut noe helt nytt i et lavterskel miljø. Her kan man møte mange likesinnede deltagere som er glade i både tur, jogging, volleyball, klatring, ski og mye mer! Dersom det er en sport denne underkomiteen ikke driver med er det bare å fyre løs et forslag om å prøve ut idretten uten at ideen vil falle på døve ører.
 
 **The BookWormhole:**
 The BookWormhole er bokklubben til Delta. I denne interessegruppen kan man møte andre fra studiet for å lese felles bøker, se filmadapsjoner av bøker The BookWormhole nylig har lest gjennom, eller delta på bokrelaterte quizer. Bokklubben pleier å ha møte inne på kontoret hvor deltagerne leser sammen eller diskuterer det de har lest, gjerne med noe snacks, kaffe og te.
