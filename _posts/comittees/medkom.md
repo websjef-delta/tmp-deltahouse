@@ -7,7 +7,7 @@ Er du kreativ av natur? Enten du vil utfordre deg selv på nye og spennende omr�
 
 Bli med i MedKom og skap historie! Push deg selv ut av komfortsonen og sett ditt unike særpreg på Deltas ansikt utad.
 
-<img src="/images/uploads/redbilde.jpeg" alt="Spente lesere av avisa">
+<img src="/images/uploads/redbilde.jpeg" alt="Spente lesere av avisa" widtth="300" height="220" align="right">
 
 **Redaksjonen** 
 
