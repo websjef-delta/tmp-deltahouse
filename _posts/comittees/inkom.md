@@ -14,6 +14,8 @@ Andre tilbud for jenter i linjeforeningen Delta:
 
 * [Jenteprosjektet Ada](https://www.ntnu.no/jenter/ada)
 
+<img src="/images/uploads/img_6427.jpg"  width="300" height="200" align="right">
+
 
 **CosKom**\
 CosKom står for de mindre sosiale, lavterskel og alkoholfrie-arrangementene i Delta. De arrangerer alt fra spillkvelder og filmkvelder til bakekvelder og malekurs. De gjennomfører også perlekvelder, juleverksted og ekskursjoner. CosKom er kjent for å ha de beste møtene fylt med te, kaffe kjeks og kosedyr. Alt i alt er CosKom der for å gi alle deltagere et avbrekk fra den travle studieverdagen.
@@ -22,12 +24,6 @@ Mail: [delta.cosesjef@gmail.com](https://www.deltahouse.no/komiteer/komkom/delta
 
 
 
-<img
-  align="right"
-  width="400"
-  height="300"
-  src="/images/uploads/img_6427.jpg"
->
 
 **Delta Utenriks**\
 Delta Utenriks er komiteen for de som ønsker å jobbe for å skape et sosialt nettverk for de internasjonale studentene som kommer til Trondheim for å studere på våres studier. De jobber for å introdusere dem til Delta og norske studenter, og for å inkludere dem så mye som mulig fra tidlig i semesteret. Resten av semesteret jobber Delta Utenriks med å arrangere ulike mindre arrangementet hvor fokuset er å få de internasjonale studentene og de norske studentene til å møtes og bli kjent. Eksempler på arrangementer som har blitt arrangert tidligere er: Escape Room, Speedfriending, Nyttårsbord og International Food Night. 
