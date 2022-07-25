@@ -32,7 +32,7 @@ Pulitzerprisen, rett her i Trondheim! Der har vi tidligere år vunnet
 ærestittel som NTNUs mest nerdete avis, og det er vi i grunn ganske 
 stolte av.
 
-
+* [Delta t sin likepage](https://www.facebook.com/avisadeltat)
 
 Mail: <delta.redaksjonen@gmail.com>
 
@@ -58,15 +58,18 @@ Mail: <delta.designsjef@gmail.com>
 " alt="Innspilling av podcastepisode" widtth="300" height="220" align="right">
 
 
-**Delta P**
+**Delta p**
 
-Delta P er podcasten til Delta. De produserer selvfølgelig podcaster, men også 
+Delta p er podcasten til Delta. De produserer selvfølgelig podcaster, men også 
 musikkvideoer og andre ting. De gjør også andre sosiale ting, som å kjøre hjem 
 til sommerferien ilag. Hvis du har lyst til å være med å lage podcaster, 
-redigere dem eller bare har lyst til å gjøe noe sosialt er dette komiteen for deg. 
+redigere dem eller bare har lyst til å gjøre noe sosialt er dette komiteen for deg. 
 Du kan høre oss i Spotify, Apple podcast, eller hvilken som helst annen podcastapp. 
 Vi har også en [youtube kanal](https://www.youtube.com/channel/UC1WDrrtnlW0oIfSP6_azSuA) 
 der vi laster opp alle musikkvideoene.
+
+* [Delta p sin likepage](https://www.facebook.com/deltapodcast)
+* [Delta p på sin instagramprofil](https://www.instagram.com/delta_p_official/)
 
 Mail: <delta.podcasting@gmail.com>
 
