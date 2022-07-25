@@ -5,6 +5,8 @@ bilde: /images/uploads/inkom1.png
 ---
 Inkluderingskomiteen er en paraplykomité for de komiteene som organiserer sosiale, lavterskelarrangementer for studentene i Delta, med et spesielt fokus på utsatte undergrupper. InKom har fire underkomiteer som jobber med sosiale arrangementer og inkludering på hver sin måte. Dersom du er interessert i organisering av mindre lavterskel-arrangementer, sosiale sammenkomster, filmkvelder, bli kjent med internasjonale studenter eller å senke terskelen for å prate om psykisk helse, så er dette komiteen for deg. 
 
+* [Følg med på hva InKom gjør på Instagram](https://www.instagram.com/delta_inkom/)
+
 
 <img src="/images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" title="Deltas damer spiser middag sammen">
 
@@ -27,9 +29,7 @@ Mail: <delta.cosesjef@gmail.com>
 **Delta Utenriks**   
 Delta Utenriks er komiteen for de som ønsker å jobbe for å skape et sosialt nettverk for de internasjonale studentene som kommer til Trondheim for å studere på våres studier. De jobber for å introdusere dem til Delta og norske studenter, og for å inkludere dem så mye som mulig fra tidlig i semesteret. Resten av semesteret jobber Delta Utenriks med å arrangere ulike mindre arrangementet hvor fokuset er å få de internasjonale studentene og de norske studentene til å møtes og bli kjent. Eksempler på arrangementer som har blitt arrangert tidligere er: Escape Room, Speedfriending, Nyttårsbord og International Food Night. 
 
-Vi har også en Facebookgruppe for alle internasjonale studenter i Delta:
-
-<https://www.facebook.com/groups/2115835185143918/>
+Vi har også en [Facebookgruppe](https://www.facebook.com/groups/2115835185143918/) for alle internasjonale studenter i Delta:
 
 Mail: <delta.utenriks@gmail.com>
 
