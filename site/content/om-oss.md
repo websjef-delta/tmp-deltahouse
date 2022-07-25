@@ -3,7 +3,7 @@ title: Om Delta
 intro: >-
   Linjeforeningen Delta er foreningen som ordner med et sosialt tilbud for alle
   studenter som har startet på bachelor, master eller årsstudium ting som
-  Fadderperiode, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg har
+  fadderperioden, Immatrikuleringsball, Åretur, Amazing Race osv. I tillegg har
   vi jevnlige fagkollokvier, foredrag, spillkvelder, quiz avisslipp og mye, mye
   mer. 
 
