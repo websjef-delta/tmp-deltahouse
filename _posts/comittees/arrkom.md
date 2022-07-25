@@ -16,6 +16,9 @@ Sitter du inne med noen kule arrangementer som vi bør arrangere i framtiden? Ha
 
 I motsetning til de fleste andre hovedkomiteer i Delta, trenger man ikke å være medlem i selve Arrkom for å kunne delta i våre underkomiteer og interessegruppe! Man kan selvsagt være medlem i Arrkom i tillegg, eller i flere underkomiteer av gangen, men vi har altså ikke krav om at du for eksempel må være med å arrangere Immball for å kunne synge i koret eller spille i bandet.
 
+<img src="/images/uploads/isokor.jpeg" width="300" height="200" title="Isokor opptrer" align="right">
+
+
 **Isokor:** 
 
 Det er lite som er så morsomt som å møte venner hver uke, prate skitprat og spise kaker, tørre kjeks og frukt. Om du da legger til litt sang i miksen så har du skjønt hvordan det er å være med i Isokor, koret med konstant trykk! 
@@ -23,6 +26,10 @@ Det er lite som er så morsomt som å møte venner hver uke, prate skitprat og s
 Isokor er linjeforeningskoret til Delta og vi er et utrolig lavterskelkor. Etter oppstarten i 2015 har Isokor sitt hovedfokus alltid vært på å skape et inkluderende og artig miljø for dets medlemmer. I løpet av et semester så møtes vi til ukentlige øvinger, som regel torsdager fra 18:00-20:30, hvor vi øver inn alt fra middelaldermusikk til gøye poplåter som du kan høre på radioen. Isokor pleier også å opptre på de forskjellige Delta-arrangementene som er i løpet av året. På vårsemesteret så deltar vi og på noe som heter Korstock, som er en fantastisk korfestival for alle linjeforeningskorene ved NTNU. Det innebærer 2 dager med sang, masse kule folk og utrolig god stemning! 
 
 Om dette høres ut som noe for deg så er det bare å komme på en øving, vi gleder oss til å se deg der! 
+
+
+<img src="/images/uploads/valensbandet.jpeg" width="300" height="200" title="valensbandet opptrer" align="right">
+
 
 **Valensbandet** 
 
