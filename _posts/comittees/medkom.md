@@ -34,7 +34,7 @@ stolte av.
 
 
 
-Mail: [delta.redaksjonen@gmail.com](delta.redaksjonen@gmail.com)
+Mail: <delta.redaksjonen@gmail.com>
 
 **Design**
 
@@ -51,7 +51,7 @@ Om du er nysgjerrig på design, interessert i å lære mer om å bruke
 Photoshop, ønsker å bli flinkere til å sy, eller om du bare vil lage 
 memes så er du uansett svært velkommen hos oss i Design!
   
-Mail: [delta.designsjef@gmail.com](delta.designsjef@gmail.com)
+Mail: <delta.designsjef@gmail.com>
 
 
 <img src="/images/uploads/podcasten.png
@@ -68,7 +68,7 @@ Du kan høre oss i Spotify, Apple podcast, eller hvilken som helst annen podcast
 Vi har også en [youtube kanal](https://www.youtube.com/channel/UC1WDrrtnlW0oIfSP6_azSuA) 
 der vi laster opp alle musikkvideoene.
 
-Mail: [delta.podcasting@gmail.com](delta.podcasting@gmail.com)
+Mail: <delta.podcasting@gmail.com>
 
 **Delta V** 
 
@@ -85,10 +85,10 @@ gode idéer vil bli til virkelighet!
 
 Videoene kan sees på Deltas [youtube kanal](https://www.youtube.com/channel/UCW6mgAETx5tY666gD7cMmNw).
 
-Mail: [delta.videosjef@gmail.com](delta.videosjef@gmail.com)
+Mail: <delta.videosjef@gmail.com>
 
 **KomIT**   
 
 KomIT står for å lage denne shitty nettsida. 
 
-Mail: [delta.websjef@gmail.com](delta.websjef@gmail.com])
+Mail: <delta.websjef@gmail.com>
