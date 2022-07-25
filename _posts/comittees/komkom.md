@@ -20,6 +20,8 @@ Dersom du er glad i øl, eller interessert i hvordan byggeprosessen egentlig fun
 **ΔS:**
 DeltaS er underkomiteen i Delta som driver med alt av sportslige arrangementer. Dette kan være alt fra tur og joggetur til ballsporter som volleyball. Denne underkomiteen er en flott måte å drive med allerede godt kjente idretter, eller for å prøve ut noe helt nytt i et lavterskel miljø. Her kan man møte mange likesinnede deltagere som er glade i både tur, jogging, volleyball, klatring, ski og mye mer! Dersom det er en sport denne underkomiteen ikke driver med er det bare å fyre løs et forslag om å prøve ut idretten uten at ideen vil falle på døve ører.
 
+<img src="/images/uploads/noenkom.jpeg" width="300" height="200" align="right" title="noenkomlogoen">
+
 **Noenkom:**
 Har du noen gang hatt en god ide eller lagt merke til et lite problem og tenkt at noen burde gjøre noe med saken? Vel frykt ikke for Noenkomiteen kan ordne opp i saken! Noenkom gjør det «noen burde gjøre». Dette kan være alt mulig rart som ikke faller under en annen sitt ansvarsområde. Forslagene man har kan lett sendes inn til lederen av underkomiteen, Noen, via et skjema som henger på linjeforeningskontoret. Denne underkomiteen har en struktur som er noe for seg selv, og som kan være forvirrende å sette seg inn i til å starte med. Men dersom du er interessert i å finne ut av hva Noenkom egentlig holder på med. Hvem Noen, Noen Andre, Vi, De eller Hvem er, hvordan medlemsgrader fungerer eller hvorfor underkomiteen feirer jubileum på IKEA så kan det være en ide å melde seg inn i denne underkomiteen for å komme til bunns i saken.
 
