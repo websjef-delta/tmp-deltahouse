@@ -9,6 +9,8 @@ Alle underkomiteene driver med mye forskjellig hver for seg i løpet av et semes
 
 Noe av det beste med Komkom er mulighetene for å starte opp nye underkomiteer og interessegrupper. Dersom du ser på listen over ting vi holder på med og føler at noe mangler, så er det bare å høre med lederen av Komitekomiteen for å få støtte for å gjøre ideen til en realitet; med interesse og engasjement kommer man langt!
 
+<img src="/images/uploads/vaffkaff.jpeg" width="300" height="200" align="right" title="vaffelsalg!">
+
 **Vaffkaff (Vaffel og kaffe komiteen):**
 Er du glad i kaffe, å spre glede til andre medstudenter og vafler? Da er vaffel og kaffe komiteen noe for deg! Vaffkaff selger vafler utenfor Delta sitt linjeforeningskontor alt fra to til fire ganger i måneden for alle som skulle ønske seg noe godt å spise i løpet av studiedagen. Det underliggende målet til Vaffkaff er å kunne finansiere kaffebruken til deltagerne på studiet sitt, men vaffelsalget ender alltid med godt humør og en fin pause fra en travel studiehverdag.
 
