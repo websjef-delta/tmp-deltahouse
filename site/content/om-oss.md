@@ -185,3 +185,5 @@ boardmembers:
     number: 941 99 999
 ---
 ## Tidligere styrer: (Kommer)
+
+![2021 styret](/images/uploads/felles_2_bw.jpg "2021 styret:")
