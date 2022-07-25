@@ -5,9 +5,8 @@ bilde: /images/uploads/inkom1.png
 ---
 Inkluderingskomiteen er en prarplykomite for de komiteene som organiserer sosiale, lavterskelarrangementer for studentene i Delta, med et spesielt fokus på utsatte undergrupper. InKom har fire underkomiteer som jobber med sosiale arrangementer og inkludering på hver sin måte. Dersom du er interessert i organisering av mindre lavterskel-arrangementer, sosiale sammenkomster, filmkvelder, bli kjent med internasjonale studenter eller å senke terskelen for å prate om psykisk helse, så er dette komtieen for deg. 
 
-![](/images/uploads/img-20220127-wa0001.jpg)
 
-<img src="/images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right">
+<img src="/images/uploads/img-20220127-wa0001.jpg"  width="300" height="200" align="right" title="Deltas damer spiser middag sammen">
 
 **KvinneKom**\
 KvinneKom ble opprettet i 2014 for å styrke samholdet og øke deltagelse blant kvinnene i linjeforeningen. Dette har helt klart forbedret seg siden komiteen ble opprettet, men det kan fortsatt gjøres enda bedre. Jobben deres er å skape et godt sosialt og faglig miljø for jentene på studiet. De jobber for å arrangere små og store arrangementer i løpet av semesteret for å skape et godt miljø blant jentene og få flere jenter til å engasjere seg i linjeforeningen. Har du lyst til å gjøre linjeforeningen Delta til et hyggeligere sted, både for kvinner og menn? Da bør du melde deg inn i KvinneKom. 
