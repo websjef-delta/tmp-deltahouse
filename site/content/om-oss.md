@@ -7,19 +7,17 @@ intro: >-
   vi jevnlige fagkollokvier, foredrag, spillkvelder, quiz avisslipp og mye, mye
   mer. 
 
-  <br/>
 
 
   Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
 
-  <br/>
 
   Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta ***n*** gratis kopper kaffe og slå av en prat da vel!
 heading-om-styret: Om Styret
 body-om-styret: >-
   Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
   under. Det er vi som styrer det administrativet i linjeforeninga og bestemer
-  hvordan Delta skal driftes.  \
+  hvordan Delta skal driftes.
 
   Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: [delta@delta.org.ntnu.no](delta@delta.org.ntnu.no)
 boardmembers:
