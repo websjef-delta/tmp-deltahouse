@@ -12,7 +12,7 @@ intro: >-
   Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
 
 
-  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta n gratis kopper kaffe og slå av en prat da vel!
+  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta n gratis kopper kaffe og slå av en prat da vel! Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: delta@delta.org.ntnu.no
 heading-om-styret: Om Styret
 body-om-styret: >
   Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
@@ -33,7 +33,7 @@ boardmembers:
       Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og tilbringer nå sitt andre år i Deltastyret som leder av foreningen.
 
 
-      Mail: <delta.leder@gmail.com>
+      Mail: delta.leder@gmail.com
     bilde: /images/uploads/led.png
     mail: delta.leder@gmail.com
     number: 908 61 296
@@ -58,7 +58,7 @@ boardmembers:
       møte på ho og kan slå av ein prat!
 
 
-      Mail: <delta.nestleder@gmail.com>
+      Mail: delta.nestleder@gmail.com
     bilde: /images/uploads/nes.png
     mail: delta.nestleder@gmail.com
     number: 947 89 826
@@ -78,7 +78,7 @@ boardmembers:
       Nå jobber han med å skaffe penger til alle prosjektene Delta driver med.
 
 
-      Mail: <delta.okonomisjef@gmail.com>
+      Mail: delta.okonomisjef@gmail.com
     mail: delta.okonomisjef@gmail.com
     number: 412 58 943
   - navn: Eirik Xiang Nordgård
@@ -93,7 +93,7 @@ boardmembers:
       Han var likevel klar til å bli noe stort, men endte istedenfor opp med å bli matamatiker. Her møtte han på Delta og fant ut at dette er stedet han hører hjemme. Som evig ung endte han fort opp med å bli utnevnt til neste års Faddersjef fra og med dag 1. Uvitende om hva det måtte bringe, kastet han seg inn i sitt første verv. Nå er han klar til å ta imot årets fadderbarn.
 
 
-      Mail: <faddersjef@gmail.com>
+      Mail: faddersjef@gmail.com
     bilde: /images/uploads/fad.png
     mail: faddersjef@gmail.com
     number: 989 98 080
@@ -110,7 +110,7 @@ boardmembers:
       og har som mål å lage de beste arrangementene Delta har sett.
 
 
-      Mail: <delta.arrkom@gmail.com>
+      Mail: delta.arrkom@gmail.com
     bilde: /images/uploads/arr.png
     mail: delta.arrkom@gmail.com
     number: 452 51 704
@@ -125,7 +125,7 @@ boardmembers:
       fortsette det han startet på.
 
 
-      Mail: <bedrift.delta@gmail.com>
+      Mail: bedrift.delta@gmail.com
     bilde: /images/uploads/bed.png
     mail: bedrift.delta@gmail.com
     number: 467 72 567
@@ -144,7 +144,7 @@ boardmembers:
       han seg for å bli FagKomsjef.
 
 
-      Mail: <delta.fagsjef@gmail.com>
+      Mail: delta.fagsjef@gmail.com
     bilde: /images/uploads/fag.png
     mail: delta.fagsjef@gmail.com
     number: 467 86 685
@@ -171,7 +171,7 @@ boardmembers:
       enn VelKommen til å slå av en prat.
 
 
-      Mail: <delta.inkomsjef@gmail.com>
+      Mail: delta.inkomsjef@gmail.com
     bilde: /images/uploads/inn.png
     mail: delta.inkomsjef@gmail.com
     number: 414 55 917
@@ -195,7 +195,7 @@ boardmembers:
       innimellom.
 
 
-      Mail: <komkomsjef@gmail.com>
+      Mail: komkomsjef@gmail.com
     bilde: /images/uploads/kom.png
     mail: komkomsjef@gmail.com
     number: 469 47 444
@@ -214,20 +214,9 @@ boardmembers:
       Nå er hun klar for å lede MedKom, en komité som lar henne utforske sine kreative interesser i en ellers faglig hverdag.
 
 
-      Mail: <medkomsjef@gmail.com>
+      Mail: medkomsjef@gmail.com
     bilde: /images/uploads/med.png
     mail: medkomsjef@gmail.com
     number: 941 99 999
 ---
-Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: [delta@delta.org.ntnu.no](delta@delta.org.ntnu.no)
-
-
-## Sosiale medier
-
-* [Facebook](https://nb-no.facebook.com/DeltaNTNU/)
-* [Instagram](https://www.instagram.com/linjeforeningendelta/)
-* [Twitter](https://twitter.com/DeltaNTNU)
-* [Youtube](https://www.youtube.com/channel/UCW6mgAETx5tY666gD7cMmNw)
-
-
-## Tidligere styrer: (Kommer)
+## Tidligere styrer: (kommer)
