@@ -5,10 +5,10 @@
       <div class="body">
         <p>
           Skal du studere årsstudium/bachelor/master i matematiske fag eller
-          bachelor/master i fysikk ved NTNU til høsten? Meld deg på i Deltas
+          bachelor/master i fysikk ved NTNU høsten 22? Meld deg på i Deltas
           fadderuke!
         </p>
-        <a href="https://forms.gle/G8RM8x3SV9NbEiySA" class="link-button"
+        <a href="https://forms.gle/GoiATksMbXJmokkM7" class="link-button"
           >Påmelding</a
         >
       </div>
