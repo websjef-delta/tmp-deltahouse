@@ -1,19 +1,26 @@
 ---
 layout: committee
 title: ArrKom
-bilde: //
+bilde: /images/uploads/arrkom2.png
 ---
 Arrangementskomiteen, forkortet Arrkom, er den komiteen i Delta som sørger for gjennomføringen av alle Delta sine kule arrangementer! Hvert år arrangerer vi Immatrikuleringsball, Camp Delta, julebord, Åre-tur, Det Sammensatte Ball, Amazing Race, vÅrgang og 17. mai frokost. I tillegg har Arrkom flere underkomiteer og interessegrupper, nemlig vårt eget kor, Isokor, Valensbandet, Vinkjelleren og Delta Contentum, som du kan lese mer om lengre ned på siden. 
+
+<img src="/images/uploads/ball.jpeg" width="500" height="350" title="Deltas jubileum 2022" align="right">
+
 
 Arrkom er altså en stor og sammensatt komite, og har en viktig rolle for å tilby Deltas medlemmer aktiviteter og arrangementer man kan delta på, og det er stort spekter i hva man kan jobbe med innad i komiteen. For å gjennomføre et arrangement trenger man blant annet noen som kan ha ansvar for pynt av lokalet, fikse program og plakater, ofte i samarbeid med Designkom, man trenger folk som kan ordne logistikk og transport av utstyr til lokalet, flere som kan jobbe med underholdning og det som skal skje på scena, og vi trenger folk til å styre promoteringen og sørge for at folk melder seg på, for å nevne det viktigste. Det er med andre ord veldig varierte arbeidsoppgaver, både innad hvert arrangement og fra arrangement til arrangement! 
 
 Sitter du inne med noen kule arrangementer som vi bør arrangere i framtiden? Har du lyst til å være med i planleggingen, eller ha hovedansvaret for gjennomføringen av et arrangement? Vet du om noe som kan gjøre arrangementene våre enda bedre? Har du lyst til å jobbe med pynting, logistikk, underholdning eller kanskje være konferansier? Da må du melde deg inn i Deltas viktigste komite, nemlig Arrkom! 
 
-#### **Underkomiteer/ interessegruppe** 
+
+#### **Underkomiteer/ interessegruppe**
 
 I motsetning til de fleste andre hovedkomiteer i Delta, trenger man ikke å være medlem i selve Arrkom for å kunne delta i våre underkomiteer og interessegruppe! Man kan selvsagt være medlem i Arrkom i tillegg, eller i flere underkomiteer av gangen, men vi har altså ikke krav om at du for eksempel må være med å arrangere Immball for å kunne synge i koret eller spille i bandet.
 
-**Isokor:** 
+<img src="/images/uploads/isokor.jpg" width="300" height="300" title="Isokor opptrer" align="right">
+
+
+**Isokor** 
 
 Det er lite som er så morsomt som å møte venner hver uke, prate skitprat og spise kaker, tørre kjeks og frukt. Om du da legger til litt sang i miksen så har du skjønt hvordan det er å være med i Isokor, koret med konstant trykk! 
 
@@ -21,7 +28,11 @@ Isokor er linjeforeningskoret til Delta og vi er et utrolig lavterskelkor. Etter
 
 Om dette høres ut som noe for deg så er det bare å komme på en øving, vi gleder oss til å se deg der! 
 
-**Valensbandet:** 
+
+<img src="/images/uploads/valensbandet.jpg" width="300" height="300" title="valensbandet opptrer" align="right">
+
+
+**Valensbandet** 
 
 Valensbandet har vært Deltas husband helt siden oppstarten i 2015. Vi er ansvarlig for musikken på Deltas arrangementer, og øver ellers ofte sammen gjennom semesteret. I likhet med hvordan elektroner beveger seg fritt i valensbåndet har valensbandet fri flyt av medlemmer. Hvis du føler du har et instrument du kan bidra med eller har lyst til å lære, er det bare å bli med oss og jamme! Bandet er lavterskel, og du bestemmer selv om du vil bli med å opptre på et arrangement eller bare jamme hvis du ikke er klar for å stå på scenen. 
 
@@ -39,4 +50,4 @@ Delta Contentum, DC, er Deltas lyd- og lyskomité som ble opprettet høsten 2018
 
 DCs medlemmer får tilgang til generelle komitémedlemsfordeler, grunnleggende opplæring i lyd-/lysteknikk og gratis inngang på arrangementer man er hovedansvarlig for på vegne av DC. 
 
-DC driver også utleie av utstyr til en rimelig pris, inkludert ulike typer mikrofoner, høyttalere, stativer og diverse. For mer informasjon, ta kontakt med [delta.contentum@gmail.com](delta.contentum@gmail.com)
+DC driver også utleie av utstyr til en rimelig pris, inkludert ulike typer mikrofoner, høyttalere, stativer og diverse. For mer informasjon, ta kontakt med <delta.contentum@gmail.com>
