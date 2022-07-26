@@ -185,4 +185,4 @@ boardmembers:
     mail: medkomsjef@gmail.com
     number: 941 99 999
 ---
-## Tidligere styrer: (Kommer)
+## Tidligere styrer: (Kommer]
