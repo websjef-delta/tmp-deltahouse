@@ -104,3 +104,13 @@ collections:
         file: "site/content/newStudent.md"
         fields:
           - { label: alt, name: body, widget: markdown }
+      - label: "International student"
+        name: "internationalStudent"
+        file: "site/content/internationalStudent.md"
+        fields:
+          - { label: alt, name: body, widget: markdown }
+      - label: "Annet"
+        name: "div"
+        file: "site/content/div.md"
+        fields:
+          - { label: alt, name: body, widget: markdown }
