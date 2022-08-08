@@ -9,3 +9,5 @@ Dette innebærer å arrangere ukentlige kollokvier der man kan sitte å gjøre �
 I eksamensperioden holdes det kræsjkurs i de fleste førsteklassefagene for alle skal få lært seg hele pensum i løpet av de siste dagene. Og om ikke kræsjkurset alene er nok så produserer ogsp Fagkom kompendier i mange fellesfag som oppsummerer pensum og gir god veiledning i å løse eksamensoppgaver.
 
 Fagkom har også to interessegrupper, Matteklubben og Fysikklubben, der kan man følge med på foredrag holdt av andre studenter som er spesielt interessert i et tema, eller kanskje du til og med drister deg til å holde et foredrag selv?
+
+Fagkom har også en egen nettside med oppgavearkiv og oversikt over foredrag. [Den finner du her.](https://fagkom.wordpress.com/)
