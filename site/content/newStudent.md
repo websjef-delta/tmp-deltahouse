@@ -15,5 +15,5 @@ Vi i Linjeforeningen Delta gleder oss masse til å treffe deg nå til høsten!
 I mellomtida kan dere følge [likepagen](https://www.facebook.com/DeltaNTNU) vår og [instagramprofilen](https://www.instagram.com/linjeforeningendelta/) vår for å se litt hva vi holder på med.
 
 
-**Program for fadderperioden 2022 kommer etter hvert!**
-![]()
+**Program for fadderperioden 2022**   
+<img src="/images/uploads/FadderukeBanner.png" title="Fadderuka 2022" align="center">
