@@ -16,4 +16,4 @@ I mellomtida kan dere følge [likepagen](https://www.facebook.com/DeltaNTNU) vå
 
 
 **Program for fadderperioden 2022**   
-<img src="/images/uploads/FadderukeBanner.png" title="Fadderuka 2022" align="center">
+<img src="/images/uploads/FadderukeBanner.png" title="Fadderuka 2022" align="center" height="370">
