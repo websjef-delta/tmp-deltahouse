@@ -1,4 +1,4 @@
-<!-- basically defines header and footer -->
+<!-- Defines header and footer -->
 <template>
   <div class="layout">
     <header id="top-header">
@@ -22,6 +22,7 @@
         <li><g-link to="/komiteer/">Komiteer</g-link></li>
         <li><g-link to="/kompendier/">Kompendier</g-link></li>
         <li><g-link to="/new-student/">Ny student</g-link></li>
+        <li><g-link to="/div/">Annet</g-link></li>
       </ul>
     </nav>
     <div class="body">
