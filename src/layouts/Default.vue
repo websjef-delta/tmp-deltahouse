@@ -23,6 +23,7 @@
         <li><g-link to="/kompendier/">Kompendier</g-link></li>
         <li><g-link to="/new-student/">Ny student</g-link></li>
         <li><g-link to="/div/">Annet</g-link></li>
+        <li><a href="https://teamup.com/ks3nuenfpbx2y8b78w">Kalender</a></li>
       </ul>
     </nav>
     <div class="body">
