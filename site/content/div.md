@@ -45,5 +45,10 @@ Her er et digitalt arkiv med alle utgaver av avisa vår $\Delta$t. Vel lest!
 Her finner du strikkeoppskrifter for deltagenseren, deltasokker, deltapannebånd, og deltaølvott.
 [Link til mappe](https://drive.google.com/drive/folders/1stu1-2BCZXi0QwsNePCpRaaDA6R7UnhR?usp=sharing)
 
+## Styremøtereferater
+Her finner du referat fra styremøter.
+[Link til mappe](https://drive.google.com/drive/folders/142LwuIWB-LPaiX0exb2x6fHSBGtnX11W?usp=sharing)
+
+
 
 
