@@ -16,6 +16,12 @@ Delta bruker facebook som sin primære informasjonskanal, under er gruppene alle
 Man skal bli lagt til disse gruppene i fadderuka, men om du ikke har blitt det er det bare å sende forespørsel eller sende melding til noen i styret.  
 Ellers har alle komiteer har facebookgrupper som man blir med i når man melder seg inn i komiteen
 
+#﻿# Deltas drive
+
+[H﻿er finner du blant annet Deltas statutter](https://drive.google.com/drive/folders/0BxOmIMYO_w44fnYzVm1iYWNIRm5hQVRtNmtraFh5bWZ4Wm5wUHJjZUhjcEpfR19wZHFRV28?resourcekey=0-5qkaJNlIEgB6ExyMK-kB3A&usp=sharing)
+
+
+
 ## Realfagskjelleren
 
 Realfagskjelleren er en bar drevet av frivillige studenter fra linjeforeningene Delta, Online, Volvox og Alkymisten og Spanskrøret. Den ligger på Moholt i kjelleren til Herman Krags vei 12. “Kjelleren”, som den oftest blir kalt, er åpen hver fredag kl. 18-23, og er et fast møtepunkt for mange deltagere.
