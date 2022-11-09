@@ -30,7 +30,7 @@
     <footer>
       <h4>Kontaktinfo</h4>
       <p>Post: NV-Fakultetet, Realfagbygget</p>
-      <p>Høgskoleringen 5, 7491 Trondheim</p>
+      <p>Høgskoleringen 5, 7034 Trondheim</p>
       <br />
       <p>Mail til styret: delta@delta.org.ntnu.no</p>
       <p>organisasjonsnummer: 996 510 352</p>
