@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <header id="second-header">
-      <g-image src="~/assets/img/gruppebilde-kull21.jpg" class="header-image" />
+      <g-image src="~/assets/img/kullbilde.jpg" class="header-image" />
       <div class="body">
         <p>
           Skal du studere årsstudium/bachelor/master i matematiske fag eller
