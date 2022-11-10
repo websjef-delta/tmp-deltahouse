@@ -29,6 +29,7 @@
           </li>
           <li>
           <g-image width="200" src="~/assets/img/TFY4102.jpg" alt="TFY102"/>
+          </li>
           <li>
           <g-image width="200" src="~/assets/img/TFY4109.jpg" alt="MA1102"/>
           </li>
@@ -49,7 +50,7 @@
 
 <page-query>
   query{
-    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:ASC perPage: 4){
+    news: allPosts(filter: {layout: {eq: "news"}} sortBy:"date" order:ASC perPage: 4){
       edges{
         node{
           path
@@ -82,15 +83,15 @@ export default {
 .header-image {
   width: 100vw;
 }
-:root {
-  --deltaGreen: #005500;
-  --buttonGreen: #002500;
+:root{
+  --delta-green: hsl(141, 65%, 19%);
+  --button-green: hsl(141, 65%, 10%);
 }
 html {
   width: 100vw;
 }
 #second-header {
-  background-color: var(--deltaGreen);
+  background-color: var(--delta-green);
   font-size: 3vw;
   text-align: center;
   color: white;
@@ -100,7 +101,7 @@ html {
   font-weight: 400;
   font-size: 2.2vw;
   font-style: normal;
-  background-color: var(--buttonGreen);
+  background-color: var(--button-green);
   padding: 0.5em;
   border-radius: 1rem;
 }
@@ -122,7 +123,7 @@ a {
   font-weight: 400;
   font-size: 2.2rem;
   font-style: normal;
-  background-color: var(--buttonGreen);
+  background-color: var(--button-green);
   padding: 0.5em;
   border-radius: 1rem;
   color: white;
@@ -145,7 +146,7 @@ a {
 }
 
 #nyheter {
-  background-color: var(--deltaGreen);
+  background-color: var(--delta-green);
   padding-bottom: 2vw;
 }
 #nyheter h2 {
