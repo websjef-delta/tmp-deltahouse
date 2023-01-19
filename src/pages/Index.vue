@@ -49,7 +49,7 @@
 
 <page-query>
   query{
-    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:ASC perPage: 4){
+    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:DESC perPage: 4){
       edges{
         node{
           path
@@ -83,7 +83,7 @@ export default {
   width: 100vw;
 }
 :root {
-  --deltaGreen: #005500;
+  --deltaGreen: #115027;
   --buttonGreen: #002500;
 }
 html {
