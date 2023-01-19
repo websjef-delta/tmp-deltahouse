@@ -1,6 +1,7 @@
 ---
 layout: news
 title: "Medlemsmøte: endring av Deltastyret"
+date: 2022-12-19T18:02:21.573Z
 ---
 Møtet finner sted i R5 klokka 16 onsdag 28. september.
 Av generalforsamlingen i fjor ble det gitt i oppgave til det nåværende styret å se på tiltak for å effektivisere styret og fjerne mye av arbeidsmengen til hovedkomitélederne som ikke er relevant for selve komitédriften. Det har nemlig vært tilfelle i mange år nå at mye av verv-tiden til hovedkomitélederne har gått til andre oppgaver enn å drive komitéen, og dermed har og komitéarbeid blitt nedprioritert av mer forpliktende oppgaver.

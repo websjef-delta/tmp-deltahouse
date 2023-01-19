@@ -1,6 +1,7 @@
 ---
 layout: news
 title: Deltas generalforsamling 2022
+date: 2023-01-01T18:02:21.573Z
 ---
 Deltastyret ønsker alle velkomne til årets Generalforsamling, som i år avholdes lørdag 5. november 2022, kl. 12 i R7 på Realfagbygget. Generalforsamlingen er foreningens øverste organ og årets viktigste møte for Delta. Alle aktive Deltagere er hjertelig velkommen og oppfordres på det sterkeste til å komme for å bruke stemmeretten sin og si sin mening.
 Under generalforsamlingen skal følgende behandles:
