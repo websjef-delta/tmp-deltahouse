@@ -1,6 +1,7 @@
 ---
 layout: news
 title: Konvergensmøte vår 2023
+date: 2023-01-19T18:02:21.573Z
 ---
 Tid: onsdag 1.februar kl 16:15
 
