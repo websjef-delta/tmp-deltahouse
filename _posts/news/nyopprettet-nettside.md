@@ -2,7 +2,7 @@
 layout: news
 title: Nyopprettet nettside
 bilde: ""
-date: 2022-12-23T18:02:21.573Z
+date: 2022-12-18T18:02:21.573Z
 ---
 Hei alle sammen og velkommen tilbake til Deltahouse! \
 \
