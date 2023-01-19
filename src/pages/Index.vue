@@ -50,7 +50,7 @@
 
 <page-query>
   query{
-    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:DESC perPage: 4){
+    news: allPosts(filter: {layout: {eq: "news"}}sortBy:"date" order:ASC perPage: 4){
       edges{
         node{
           path
