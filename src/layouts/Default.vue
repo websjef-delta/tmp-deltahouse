@@ -49,6 +49,10 @@ query {
 </static-query>
 
 <style>
+:root{
+  --delta-green: #115027;
+  --button-green: #002500;
+}
 * {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
@@ -94,12 +98,12 @@ nav li a {
   padding: .5vh;
 }
 nav li a:hover {
-  background-color: #002500;
+  background-color: var(--button-green);
 }
 nav ul,
 nav {
   list-style: none;
-  background-color: #005500;
+  background-color: var(--delta-green);
   color: white;
   font-size: 1.8vh;
   font-weight: 400;
@@ -113,7 +117,7 @@ footer {
   text-align: center;
   line-height: 10px;
   margin: 40px 0 0 0;
-  background-color: #005500;
+  background-color: var(--delta-green);
   color: white;
   padding: 10px 0 30px 0;
 }

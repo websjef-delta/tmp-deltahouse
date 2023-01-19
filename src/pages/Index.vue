@@ -91,7 +91,7 @@ html {
   width: 100vw;
 }
 #second-header {
-  background-color: var(--deltaGreen);
+  background-color: var(--delta-green);
   font-size: 3vw;
   text-align: center;
   color: white;
@@ -101,7 +101,7 @@ html {
   font-weight: 400;
   font-size: 2.2vw;
   font-style: normal;
-  background-color: var(--buttonGreen);
+  background-color: var(--button-green);
   padding: 0.5em;
   border-radius: 1rem;
 }
@@ -123,7 +123,7 @@ a {
   font-weight: 400;
   font-size: 2.2rem;
   font-style: normal;
-  background-color: var(--buttonGreen);
+  background-color: var(--button-green);
   padding: 0.5em;
   border-radius: 1rem;
   color: white;
@@ -146,7 +146,7 @@ a {
 }
 
 #nyheter {
-  background-color: var(--deltaGreen);
+  background-color: var(--delta-green);
   padding-bottom: 2vw;
 }
 #nyheter h2 {
