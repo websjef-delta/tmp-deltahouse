@@ -16,9 +16,9 @@ On saturday 11. february, we'll kick off with one of this semester's most fun ev
 You will be served a 3-course vegan meal (and punch), have lots of entertaining and the opportunity to reminisce what we've done so far in Delta![🤩](https://static.xx.fbcdn.net/images/emoji.php/v9/tf7/2/16/1f929.png) \\
 The evening will take place at Sjømandsforeningen, and each committee will have their own pre-party![🥳](https://static.xx.fbcdn.net/images/emoji.php/v9/tc/2/16/1f973.png) You are also allowed to bring your own drinks to Sjømandsforeningen! \\
 ----------- \\
-KLESKODE / DRESSCODE: studentergalla \\
-PÅMELDING / REGISTRATION: <https://forms.gle/6iC8VGcXvStw2kNq6> \\
-BETALING / PAYMENT: \\
-160kr Vippses til #12514 eller overføres kontonr. 1503.58.65478 med melding <Fullt navn, komitekveld> \\
------- \\
+KLESKODE / DRESSCODE: studentergalla \\  
+PÅMELDING / REGISTRATION: <https://forms.gle/6iC8VGcXvStw2kNq6> \\  
+BETALING / PAYMENT: \\  
+160kr Vippses til #12514 eller overføres kontonr. 1503.58.65478 med melding <Fullt navn, komitekveld> \\  
+------ \\  
 160NOK can be Vippsed to #12514 or transferred to 1503.58.65478 (IBAN NO8615035865478) with message <Full name, komitekveld>
