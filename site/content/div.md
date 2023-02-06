@@ -16,7 +16,7 @@ Delta bruker facebook som sin primære informasjonskanal, under er gruppene alle
 Man skal bli lagt til disse gruppene i fadderuka, men om du ikke har blitt det er det bare å sende forespørsel eller sende melding til noen i styret.  
 Ellers har alle komiteer har facebookgrupper som man blir med i når man melder seg inn i komiteen
 
-#﻿# Deltas drive
+## Deltas drive
 
 [H﻿er finner du blant annet Deltas statutter](https://drive.google.com/drive/folders/0BxOmIMYO_w44fnYzVm1iYWNIRm5hQVRtNmtraFh5bWZ4Wm5wUHJjZUhjcEpfR19wZHFRV28?resourcekey=0-5qkaJNlIEgB6ExyMK-kB3A&usp=sharing)
 
@@ -44,7 +44,7 @@ Realfagsdagene er Deltas egne fagfestival som arrangeres i starten av mars! Fest
 * [Instagram](https://www.instagram.com/realfagsdagene/)
 
 ## Avisarkiv 
-Her er et digitalt arkiv med alle utgaver av avisa vår $\Delta$t. Vel lest!
+Her er et digitalt arkiv med alle utgaver av avisa vår. Vel lest!
 [Link til mappe](https://drive.google.com/drive/folders/1fEMbAGwVfP9gInnQQp6r8q6C9M0VgdTT?usp=sharing)
 
 ## Strikkeoppskrifter
@@ -54,6 +54,11 @@ Her finner du strikkeoppskrifter for deltagenseren, deltasokker, deltapannebånd
 ## Styremøtereferater
 Her finner du referat fra styremøter.
 [Link til mappe](https://drive.google.com/drive/folders/142LwuIWB-LPaiX0exb2x6fHSBGtnX11W?usp=sharing)
+
+## Tilbakemeldingsskjemaer  
+Her finner du tilbakemeldingsskjemaer der du kan anonymt varsle om hendelser eller gi tilbakemeldinger.  
+* [Innsending til Leder og Nestleder](https://forms.gle/XQXGUKnK6BDRNbeo8)  
+* [Innsending til KomKomsjef og InKomsjef](https://forms.gle/HdbDTcjVW3qFEKLa9)
 
 
 
