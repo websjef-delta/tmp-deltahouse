@@ -8,215 +8,163 @@ intro: >-
   mer. 
 
 
-
   Utenom dette er mye av aktiviteten i Delta innad i komiteer. Her kan man gjøre alt fra å skrive avis, være bak kulissene på linjeforeningens største arrangementer eller lære seg å brygge øl. "Hvem er det som kan være med på dette?" spør du kanskje. Svaret på det er: alle. For det viktigste er jo å Delta!
 
 
-  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta n gratis kopper kaffe og slå av en prat da vel! Vi har styremøter hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å sende en av oss en melding, eller send en mail til: delta@delta.org.ntnu.no
+  Du kan finne oss i NV-gangen på det eneste linjeforeningskontoret som alltid er åpent. Kom innom og ta n gratis kopper kaffe og slå av en prat da vel!
 heading-om-styret: Om Styret
-body-om-styret: >
-  Linjeforeningsstyret til Delta består av ti medlemmer som du kan lære mer om
-  under. Det er vi som styrer det administrative i linjeforeninga og bestemmer
-  hvordan Delta skal driftes.
+body-om-styret: "Linjeforeningsstyret til Delta består av ti medlemmer som du
+  kan lære mer om under. Det er vi som styrer det administrative i
+  linjeforeninga og bestemmer hvordan Delta skal driftes.  Vi har styremøter
+  hver andre uke, og om det er noe du ønsker at vi skal ta opp så er det bare å
+  sende en av oss en melding, eller send en mail til: delta@delta.org.ntnu.no"
 boardmembers:
-  - navn: Viktor Mikalsen
+  - navn: Andrine Haugdal
     position: Leder
-    aboutme: >-
-      Viktor vokste opp i ei lita bygd kalt Tjongsfjord innerst inne i de
-      Nordlandske skoger. Han flyttet hjemmefra etter grunnskolen, og når
-      videregående var vel gjennomført tok han turen innom NTNU hvor han har
-      vært siden. Viktor har fullført en bachelor i fysikk, og tar nå et år hvor
-      han fyller på med mer kul matematikk før han går videre på master i
-      fysikk.
-
-
-      Viktor fikk sitt første møte med linjeforeningen Delta allerede før fadderperioden hadde startet. Han vandret rundt på campus for å orientere seg litt, og snublet plutselig inn over dørstokken til Delta-kontoret som han enda ikke har klart å komme seg ut av, til karakterkortets store skrekk. Viktor har siden han startet i Delta innehatt mange forskjellige verv, og tilbringer nå sitt andre år i Deltastyret som leder av foreningen.
-
-
-      Mail: delta.leder@gmail.com
-    bilde: /images/uploads/led.png
+    aboutme: "Andrine kom rett til Trondheim etter videregående, klar for å dykke
+      ned i all den fysikken og matematikken hennes hjerte måtte ønske. Det å
+      flytte til et nytt sted langt unna, uten kjentfolk, under en global
+      pandemi virka ganske håpløst, men heldigvis var fadderuka der og
+      introduserte henne til Delta. Der møtte hun en gjeng med nerder som finner
+      på alt slags mulig rart sammen, og hun visste at i Delta kunne hun DELta
+      (get it?). Desperat etter å slippe å kjede seg under korona'n meldte hun
+      seg opp i alt for mange komiteer, og ble til og med valgt til faddersjef i
+      2021. Et år var ikke nok så i 2022 ble hun MedKomsjef, og etter to år i
+      styret tenkte ho at ho like så godt kunne ta en bachelor i styret og runde
+      av som leder.  Mail: delta.leder@gmail.com"
+    bilde: ""
     mail: delta.leder@gmail.com
-    number: 908 61 296
-  - navn: Guro Rio Berge
-    position: Nestleder
-    aboutme: >-
-      Til nestlederrolla har me 22 år gamle Guro Rio Berge. Ho kommer fra eit
-      lite sted på Vestlandet kalt Voss (og nei, Vossvann kommer ikkje fra
-      Voss). For dei som ikkje har hørt om det før, er det ein halvannen time
-      innover i landet fra Bergen. Som dyslektiker fant Guro tidlig ut at
-      skriving og lesing ikkje var noe for ho, og matematikk blei fort
-      favorittfaget. Av den grunn gikk vegen etter videregående til Trondheim
-      for å ta ein bachelor i matematikk. Der tall blei om til bokstavar, og
-      statistikken bestod av lange oppgaver (yey..). På fritiden går det i verv
-      og litt sosialt om hun har tid. For hun har nemlig ikkje nok med
-      nestlederrollen, men er også leder for Realfagsdagene 2022. Som nestleder
-      vil hun vere poteten i styre og hjelpe leder, samt jobbe litt med sine
-      egne prosjekt og oppgaver. Guro befinner seg for det meste i den grønne
-      sofaen på Matteland, i sofaen på kontoret, eller på lesesalen iherdig
-      (\*kremt kremt\*) jobbende på bacheloren. Så om du oppholder deg på noen
-      av disse lokasjonene lenge nok ( > 5min), vil du med god sannsynlighet
-      møte på ho og kan slå av ein prat!
-
-
-      Mail: delta.nestleder@gmail.com
-    bilde: /images/uploads/nes.png
-    mail: delta.nestleder@gmail.com
-    number: 947 89 826
-  - navn: Sander Klokk
-    position: Økonomisjef
-    bilde: /images/uploads/øk.png
-    aboutme: >-
-      Sander kom til Trondheim rett etter videregående klar for å studere matte
-      og møte nye folk.
-
-      I fadderperioden forvillet han seg inn på Deltakontoret en kveld og fant med det sitt andre hjem. 
-
-      Han har er snart ferdig med en bachelor i matte, selv etter å ha brukt alt for mange timer på Deltakontoret, og har planer om videre å ta en master i informatikk. 
-
-      Han har vært borti det meste av komiteer i Delta men etter to år bestemte han seg for at som sunnmøring var økonomisjef et verv som passet godt.
-
-      Nå jobber han med å skaffe penger til alle prosjektene Delta driver med.
-
-
-      Mail: delta.okonomisjef@gmail.com
-    mail: delta.okonomisjef@gmail.com
-    number: 412 58 943
-  - navn: Eirik Xiang Nordgård
-    position: Faddersjef
-    aboutme: >-
-      Født og oppvokst i Trøndelag fant Eirik ut at han ikke var klar til å
-      forlate hjembyen sin helt enda. Han bestemte seg dermed for å studere ved
-      NTNU. Eirik har, siden han var ung, vært energisk og livlig, og rundt
-      16-årsalderen sluttet han å vokse, vel mentalt. 
-
-
-      Han var likevel klar til å bli noe stort, men endte istedenfor opp med å bli matamatiker. Her møtte han på Delta og fant ut at dette er stedet han hører hjemme. Som evig ung endte han fort opp med å bli utnevnt til neste års Faddersjef fra og med dag 1. Uvitende om hva det måtte bringe, kastet han seg inn i sitt første verv. Nå er han klar til å ta imot årets fadderbarn.
-
-
-      Mail: faddersjef@gmail.com
-    bilde: /images/uploads/fad.png
-    mail: faddersjef@gmail.com
-    number: 989 98 080
-  - navn: Pia Johanne Skeide
-    position: Arrkomsjef
-    aboutme: >-
-      Pia Johanne kommer fra en liten bygd på østlandet med bare 500 innbyggere,
-      Blaker. Der skjedde det absolutt ingenting, og folk flest ble stresset av
-      å møte andre mennesker. Derfor flyttet Pia Johanne så fort det lot seg
-      gjøre opp til trønderhovedstaden for å søke visdom med matematiske fag. I
-      ny by uten å kjenne noen, ramlet hun inn på Deltakontoret ved en
-      tilfeldighet. Her oppdaget hun gratis kaffe, og siden den gang har hun
-      gått gjennom 4 kaffekopper uten å komme seg ut. Nå er hun blitt ArrKomsjef
-      og har som mål å lage de beste arrangementene Delta har sett.
-
-
-      Mail: delta.arrkom@gmail.com
-    bilde: /images/uploads/arr.png
-    mail: delta.arrkom@gmail.com
-    number: 452 51 704
-  - navn: Espen van Beuzekom
-    position: Bedkomsjef
-    aboutme: >-
-      Espen vokste opp på en liten bygd på vestlandet. Likevel har han klart å
-      klatre opp «The Corporate Ladder» og sitter nå som Bedriftskomitesjef i
-      Delta. Denne rollen fikk han etter noen tilfeldigheter i fadder-uka og
-      tiden etter, hvor han blant annet solgte seg selv på en auksjon. Etter et
-      hardt år i styret valgte han å stille til samme stilling igjen for å
-      fortsette det han startet på.
-
-
-      Mail: bedrift.delta@gmail.com
-    bilde: /images/uploads/bed.png
-    mail: bedrift.delta@gmail.com
-    number: 467 72 567
-  - navn: Thomas Agung Dibpa Anandita Thrane
-    position: Fagkomsjef
-    aboutme: >-
-      Da Thomas ble født på et grønt sykehus i vestkanten av Jakarta, fikk han
-      en hjertelig velkommen fra storesøsteren som spurte: «When is he going
-      back to the greenhouse?». Det som den vise 3 åringen ikke visste da var at
-      det skulle skje 19 år senere, da Thomas startet en bachelor i matematikk
-      og ble et medlem av Hus Delta. Det tok litt tid for Thomas å sette pris på
-      kontoret, komiteene og (kaffe) drikkekulturen til Delta, fordi han var mer
-      interessert til å ta masterfag som førsteklassing enn å sosialisere. Men
-      etter mange gode opplevelser med koret Isokor, fadderperioden, og andre
-      Delta arrangementer, innså han at han følte seg hjemme. Derfor bestemte
-      han seg for å bli FagKomsjef.
-
-
-      Mail: delta.fagsjef@gmail.com
-    bilde: /images/uploads/fag.png
-    mail: delta.fagsjef@gmail.com
-    number: 467 86 685
-  - navn: Joy Haina Sørbotten
-    position: Inkomsjef
-    aboutme: >-
-      Det hele startet under en kjølig novembernatt i et isolert samfunn på en
-      av de vestlige øyene i Filippinene. Oppe glødde den fulle månen mens
-      verdenen gjorde seg klar for å ta imot en tidlig julegave. Uten noe form
-      for (nå høyt etterlengtet) samtykke, ble Joy født, og nå sitter hun som
-      Inkluderingskomitésjefen i Deltastyret. Som en fullverdig medlem av det
-      første koronakullet, ble hun mildt sagt rastløs av hverdager med manglende
-      utfordrende situasjoner. Dermed etter å ha vært faddergruppeleder i to
-      uker med masse kaos, lidelse og stress, ble idéen om å stille til styret
-      mer og mer innbydende. Hun mener at InKomsjef ikke nødvendigvis trenger å
-      være av minoritetsslag for å gjøre en god jobb, men hvis det var tilfellet
-      så er hun overkvalifisert. Joy er en kvinnelig student med opprinnelse fra
-      utlandet i en mannsdominert studieretning (det klappes!). Hun har
-      definitivt ingen røde flagg, men et stort rosa-, lilla-, blå-farget flagg
-      heist opp i stua. Hun har også hørselsproblemer, men ser du vekk i fra det
-      er hun ganske flink til å lytte. Hun ønsker nå å representere
-      minoritetsgruppene i Delta (ikke bare i form av hennes eksistens) og å
-      inkludere de som inkluderes kan! Når du ser henne på kontoret, er du mer
-      enn VelKommen til å slå av en prat.
-
-
-      Mail: delta.inkomsjef@gmail.com
-    bilde: /images/uploads/inn.png
-    mail: delta.inkomsjef@gmail.com
-    number: 414 55 917
+    number: ""
   - navn: Eivind Svae
-    position: Komkomsjef
-    aboutme: >-
-      Den 13. april 2000 kom Eivind til verden i den tandre alder av 0 år på
+    position: Nestleder
+    aboutme: "Den 13. april 2000 kom Eivind til verden i den tandre alder av 0 år på
       Fredrikstad sykehus. Etter dette har det bare gått nedover. Eivind er
       (dessverre) fra Skiptvet i Østfold, men tok beina fatt så snart
       videregående skole var overstått for å flytte til Trondheim og starte et
       bachelorstudie i fysikk. Eivind kom til Trondheim med mål om å ikke ta på
       seg for mye arbeid og heller fokusere på studiene, noe som så klart ledet
-      til verv i Delta allerede fra det første året. Han har jobbet seg oppover
-      i KomKom i løpet av studietiden hans så langt, og det eneste naturlige
-      neste steget på vei til verdensherredømme var så klart KomKom-sjef. Som
-      KomKom-sjef har Eivind ansvaret for noen av Deltas største komiteer, samt
-      linjeforeningens arealer i form av lageret og Deltakontoret. Han er som
-      oftest mulig å finne på enten kontoret, Fysikkland eller Matteland, og
-      oppfyller med det NTNUs ambisjoner om tverrfaglig kompetanse. Om du ser
-      Eivind, ikke vær redd for å slå av en prat, han er nesten hyggelig
-      innimellom.
-
-
-      Mail: komkomsjef@gmail.com
-    bilde: /images/uploads/kom.png
+      til verv i Delta allerede fra det første året. Han jobbet seg oppover i
+      Delta gjennom KomKom, og etter et år i styret som KomKom-sjef var det
+      neste naturlige steget mot verdensherredømme å bli nestleder. Som
+      nestleder har Eivind rollen som potet, og hjelper resten av styret der det
+      trengs, i tillegg til å styre med sine egne prosjekter. Han er som oftest
+      mulig å finne på enten kontoret, Fysikkland eller Matteland, og oppfyller
+      med det NTNUs ambisjoner om tverrfaglig kompetanse. Om du ser Eivind, ikke
+      vær redd for å slå av en prat, han biter bare på den gode måten. Mail:
+      delta.nestleder@gmail.com"
+    bilde: ""
+    mail: delta.nestleder@gmail.com
+    number: ""
+  - navn: Oskar Leonhard Sørensen
+    position: Økonomisjef
+    bilde: ""
+    aboutme: Oskar ble født den 9. oktober 2002, og vokste opp i Oslo. Heldigvis
+      hadde han vett nok til å holde seg i utkanten av byen, nærmere bestemt en
+      plass kalt Bjørndal. Der karret han seg gjennom skoletrinnene helt opp
+      gjennom videregående, før han omsider fikk innvilget plass på bachelor i
+      fysikk på NTNU. Nå som han endelig var blitt den deltageren han alltid var
+      ment å være satte han igang med å ta på seg (litt for mange) verv i Delta.
+      Som den perfekte kombinasjon av gjerrig og excel avhengig fant han fort ut
+      at økonomivervene som Delta hadde å tilby passet han godt. Det hjalp ikke
+      akkurat situasjonen da han bestemte seg for å flytte inn i samme
+      kollektivet som forrige økonomisjef. En ting ledet til en annen, og Oskar
+      sitter ihvertfall den dag idag som økonomiansvarlig i Delta.
+    mail: delta.okonomisjef@gmail.com
+    number: ""
+  - navn: Synnøve Bjellvaag Braathen
+    position: Faddersjef
+    aboutme: "Videre har vi 19 år gamle Synnøve fra Asker. Etter videregående var
+      hun veldig klar for å flytte ut og leve livet på egenhånd, som hun synes
+      er helt nydelig. (Selv om hun av og til savner katten som er hjemme på
+      Østlandet). Før studiet startet klarte hun å bli lokket inn på
+      Delta-kontoret med vafler, kaffe og rubiks kuber som lokkemat, og der ble
+      hun sittende. Dette var hennes første møte med et rom som er definert som
+      et sort hull. For hun hadde egentlig ikke planlagt i bli med i Delta. Men
+      så aktiv som hun har blitt i linjeforeningen, så sitter hun nå som
+      faddersjef i Delta-styret og gleder seg til å ta imot de nye fadderbarna.
+      Mail: faddersjef@gmail.com"
+    bilde: ""
+    mail: faddersjef@gmail.com
+    number: ""
+  - navn: Viljar Engesæt
+    position: Arrkomsjef
+    aboutme: "Om meg: Viljar er fødd i Bergen og dyrka i bydelen, Arna, kjernen av
+      Bergen kommune. Som ein ekte arnabu så vil han hevda at han ikkje er frå
+      Bergen, men frå Arna. På ein alder av 22 år var han derimot klar for å
+      prøva ein anna by. Med ein maskiningeniørbachelor i baklomma var han klar
+      for å flytte til Trondheim for å følgja barndomsdraumen om å bli ein
+      fysikar. Han gjekk inn med store ambisjonar om å studera hardt og skaffa
+      seg jobb ved sidan av studiet, men det tok ikkje lang tid før Delta tok
+      over livet hans. Med kjærleik for ein god fest kjende ArrKom som det mest
+      naturlege staden å bruka tida si. Og med gode minne frå Deltas arrangement
+      så er Viljar klar for å skapa fleire gode minner for deltagarar. Mail:
+      delta.arrkom@gmail.com"
+    bilde: ""
+    mail: delta.arrkom@gmail.com
+    number: ""
+  - navn: Jacob Lauvanger
+    position: Bedkomsjef
+    aboutme: "Jacob er født og oppvokst på toppen av grünerløkka. Her forble han
+      boendefrem til etter videregående da veien tok videre til Trondheim. Her
+      startet han med godt oppmøte i fadderperioden og ble raskt en del av
+      Delta. Gjennom første halvår fikk han ymse oppgaver i de fleste komiteer.
+      Nå er han halvveis gjennom bacheloren og er valgt inn som bedkomsjef.
+      Mail: bedrift.delta@gmail.com"
+    bilde: ""
+    mail: bedrift.delta@gmail.com
+    number: ""
+  - navn: Alexander P. Johansen
+    position: Fagkomsjef
+    aboutme: "Da Alex ble født på aker-sykehus, tokk det ikke lang tid før de fleste
+      skjønte hva han skulle bli, arkeolog selvsagt, eller kanskje brannmann,
+      nei kanskje noe innenfor IT, og hadde du spurt han selv hadde han nokk
+      ikke svart at han skulle studere matematikk i trondheim, og ta på seg litt
+      flere fag en det han kanskje kan håndtere. Men matte skulle det bli, og
+      han angrer ikke. For med mange gode opplevelser fra kontoret,
+      fadderperioden og andre Delta arrangementer, tokk det ikke lang tid før
+      han innså at han følte seg hjemme, Derfor bestemte han seg for å bli
+      FagKomsjef. Mail: delta.fagsjef@gmail.com"
+    bilde: ""
+    mail: delta.fagsjef@gmail.com
+    number: ""
+  - navn: Sander Klokk
+    position: Inkomsjef
+    aboutme: "Da Sander kom til verden blåste det noe forferdelig. Det var ikke noe
+      spesielt, han ble bare født i Ålesund. Etter 19 lange år der kom han til
+      Trondheim og så endelig sola for første gang. Men det varte ikke lenge før
+      han gikk tilbake til gamle vaner og ble sittende inne på Deltakontoret,
+      der han oppdaget at dette var en hyggelig plass å være. Etter et år som
+      økonomisjef bestemte han seg for å begynne å bruke penger og ble derfor
+      Inkomsjef. Mail: delta.inkomsjef@gmail.com"
+    bilde: ""
+    mail: delta.inkomsjef@gmail.com
+    number: "\n\n"
+  - navn: Henrik Knudsen
+    position: Komkomsjef
+    aboutme: "Henrik er født og oppvokst i Oslo, men var klar for å komme seg vekk
+      derfra og begynte på mattestudiet i Trondheim. Etter et år som nestleder i
+      KomKom, ble han KomKom-sjef og har ansvaret for noen av Deltas største
+      komiteer, samt linjeforeningens arealer i form av lageret og
+      Deltakontoret. Han er som oftest på enten kontoret Matteland, så slå
+      gjerne av en prat. Mail: komkomsjef@gmail.com"
+    bilde: ""
     mail: komkomsjef@gmail.com
-    number: 469 47 444
-  - navn: Andrine Haugdal
+    number: ""
+  - navn: Didrik Nohre Lønvik
     position: Medkomsjef
-    aboutme: >-
-      Andrine kom rett til Trondheim etter videregående, klar for å dykke ned i
-      all den fysikken og matematikken hennes hjerte måtte ønske. Det å flytte
-      til et nytt sted langt unna, uten kjentfolk, under en global pandemi virka
-      ganske håpløst, men heldigvis var fadderuka der og introduserte henne til
-      Delta. Der møtte hun en gjeng med nerder som finner på alt slags mulig
-      rart sammen, og hun visste at i Delta kunne hun DELta (get it?). Desperat
-      etter å slippe å kjede seg under korona'n meldte hun seg opp i alt for
-      mange komiteer, og ble til og med valgt til faddersjef i 2021.
-
-      Nå er hun klar for å lede MedKom, en komité som lar henne utforske sine kreative interesser i en ellers faglig hverdag.
-
-
-      Mail: medkomsjef@gmail.com
-    bilde: /images/uploads/med.png
+    aboutme: "Didrik kommer fra et lite sted i Trøndelag, nemlig Inderøy (Nei, det
+      er ikke en øy). Etter ungdomsskolen var eventyrlysten stor, men etter å ha
+      rotet seg bort på østlandet i tre år vendte han tilbake til kjente
+      trakter, og begynte på en bachelor i matte. Men det var lite fysikk i den
+      graden, og etter mye om og men studerer han nå til å bli lærer. Etter å ha
+      blitt med i podcasten som 1. klassing har han siden vært aktiv i alle
+      komitene i Medkom, og er nå klar til å lede Medkom frem til hovedformålet,
+      nemlig verdensherredømme! Om du ønsker å treffe Didrik finner du han
+      oftest på kontoret, der han drikker sin n’te kopp kaffe, ellers finner du
+      han i ett eller annet møte og klager på det meste. Mail:
+      medkomsjef@gmail.com"
+    bilde: ""
     mail: medkomsjef@gmail.com
-    number: 941 99 999
+    number: ""
 ---
 ## Tidligere styrer: (kommer)
