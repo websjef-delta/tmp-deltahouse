@@ -32,7 +32,7 @@ boardmembers:
       2021. Et år var ikke nok så i 2022 ble hun MedKomsjef, og etter to år i
       styret tenkte ho at ho like så godt kunne ta en bachelor i styret og runde
       av som leder.  Mail: delta.leder@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/andrine.png
     mail: delta.leder@gmail.com
     number: ""
   - navn: Eivind Svae
@@ -52,12 +52,12 @@ boardmembers:
       med det NTNUs ambisjoner om tverrfaglig kompetanse. Om du ser Eivind, ikke
       vær redd for å slå av en prat, han biter bare på den gode måten. Mail:
       delta.nestleder@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/eivind.png
     mail: delta.nestleder@gmail.com
     number: ""
   - navn: Oskar Leonhard Sørensen
     position: Økonomisjef
-    bilde: ""
+    bilde: /images/uploads/oskar2.png
     aboutme: Oskar ble født den 9. oktober 2002, og vokste opp i Oslo. Heldigvis
       hadde han vett nok til å holde seg i utkanten av byen, nærmere bestemt en
       plass kalt Bjørndal. Der karret han seg gjennom skoletrinnene helt opp
@@ -83,7 +83,7 @@ boardmembers:
       så aktiv som hun har blitt i linjeforeningen, så sitter hun nå som
       faddersjef i Delta-styret og gleder seg til å ta imot de nye fadderbarna.
       Mail: faddersjef@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/synnove.png
     mail: faddersjef@gmail.com
     number: ""
   - navn: Viljar Engesæt
@@ -99,7 +99,7 @@ boardmembers:
       naturlege staden å bruka tida si. Og med gode minne frå Deltas arrangement
       så er Viljar klar for å skapa fleire gode minner for deltagarar. Mail:
       delta.arrkom@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/viljar.png
     mail: delta.arrkom@gmail.com
     number: ""
   - navn: Jacob Lauvanger
@@ -110,7 +110,7 @@ boardmembers:
       Delta. Gjennom første halvår fikk han ymse oppgaver i de fleste komiteer.
       Nå er han halvveis gjennom bacheloren og er valgt inn som bedkomsjef.
       Mail: bedrift.delta@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/jacob.png
     mail: bedrift.delta@gmail.com
     number: ""
   - navn: Alexander P. Johansen
@@ -124,7 +124,7 @@ boardmembers:
       fadderperioden og andre Delta arrangementer, tokk det ikke lang tid før
       han innså at han følte seg hjemme, Derfor bestemte han seg for å bli
       FagKomsjef. Mail: delta.fagsjef@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/alex.png
     mail: delta.fagsjef@gmail.com
     number: ""
   - navn: Sander Klokk
@@ -136,7 +136,7 @@ boardmembers:
       der han oppdaget at dette var en hyggelig plass å være. Etter et år som
       økonomisjef bestemte han seg for å begynne å bruke penger og ble derfor
       Inkomsjef. Mail: delta.inkomsjef@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/sander.png
     mail: delta.inkomsjef@gmail.com
     number: "\n\n"
   - navn: Henrik Knudsen
@@ -147,7 +147,7 @@ boardmembers:
       komiteer, samt linjeforeningens arealer i form av lageret og
       Deltakontoret. Han er som oftest på enten kontoret Matteland, så slå
       gjerne av en prat. Mail: komkomsjef@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/henrik.png
     mail: komkomsjef@gmail.com
     number: ""
   - navn: Didrik Nohre Lønvik
@@ -163,7 +163,7 @@ boardmembers:
       oftest på kontoret, der han drikker sin n’te kopp kaffe, ellers finner du
       han i ett eller annet møte og klager på det meste. Mail:
       medkomsjef@gmail.com"
-    bilde: ""
+    bilde: /images/uploads/didrik.png
     mail: medkomsjef@gmail.com
     number: ""
 ---
