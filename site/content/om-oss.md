@@ -167,4 +167,14 @@ boardmembers:
     mail: medkomsjef@gmail.com
     number: ""
 ---
-## Tidligere styrer: (kommer)
+## Oppstarten av Delta
+
+Høsten 1974 begynte ca. 50 studenter på matematikkstudiet, i det største auditoriet på AVH (den allmennvitenskapelige høgskolen, nå NTNU) på Rosenborg.
+Noen var fra Trondheim og de hadde nok venner og kjente som de møtte på kveldstid. Svusj,…når siste forelesning var over, var de borte.
+Vi som kom fra andre deler av landet følte oss nok litt ensomme den første tida. Jeg hadde endel bekjente her, skolekjente fra Porsgrunn, men de gikk på NTH (også kalt «siv.ing.fabrikken»).
+En dag utpå høsten 1974 kom jeg i snakk med en kar som også studerte matematikk,.Han var fra Lillestrøm, men jeg husker ikke hva han het. Vi ble enige om å spørre et par andre om de ville være med på å forsøke å starte en linjeforening for matematikk, etter mal fra de gamle linjeforeningene på NTH. Vi fire møttes på en gammel hybel i Klæbuveien, snakket og diskuterte. Et par dager etter dro jeg til matematisk institutt som dengang hadde kontorer øverst i Nonnegata, fortalte at vi ville starte linjeforening, men at vi manglet lokaler der vi kunne samles. Så viste det seg at kjelleren under instituttet var ledig! Vi studenter hadde ingen utgifter på leie, men muligens betalte instituttet et symbolsk beløp.
+Oppstarten foregikk vel ikke særlig demokratisk: vi som hadde startet det hele kjøpte inn øl og inviterte til stiftelsesmøte i den nye linjeforeningen som vi allerede hadde døpt DELTA av to årsaker: den greske bokstaven delta som er mye brukt i matematikk, og verbet å delta, dvs. å bli med!
+I løpet av tiden i lokalet som ble kalt Nonnekjelleren, altså der Delta holdt til, var lokalet åsted for mange fester. Noe av det hyggelige var at også ansatte på instituttet ble med på festene. Det var ikke så vanlig midt på 70-tallet. Antageligvis forsvant litt av avstanden mellom ansatte og studenter. Fortsatt husker nok mange av oss hvordan professorer og vit.ass-er var omgjengelige og trivelige på festene. Jeg husker godt Waadeland, Oldervoll, Hag, og flere.
+Høsten 1975 tok et nytt styre over, min tid i Delta var over.  \\
+
+Marianne Sletbakk
