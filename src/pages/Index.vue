@@ -1,14 +1,12 @@
 <template>
   <Layout>
     <header id="second-header">
-      <g-image src="~/assets/img/kullbilde.jpg" class="header-image" />
+      <g-image src="~/assets/img/kullbilde.png" class="header-image" />
       <div class="body">
         <p>
-          Skal du studere årsstudium/bachelor/master i matematiske fag eller
-          bachelor/master i fysikk ved NTNU høsten 22? Meld deg på i Deltas
-          fadderuke!
+          Meld deg som fadder for 2023!
         </p>
-        <a href="https://forms.gle/GoiATksMbXJmokkM7" class="link-button"
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNTDiM6RoKkNwSS5rsxfVjDIitEXpJxBru9euXeju0HHuLxA/viewform?fbclid=IwAR3AbhYLB8QCmlmPehXfebsqX2n1bdiZTTq8XZocXztT5g-f6iv4LH3MFEo" class="link-button"
           >Påmelding</a
         >
       </div>
