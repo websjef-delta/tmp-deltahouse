@@ -32,7 +32,7 @@
     <footer>
       <h4>Kontaktinfo</h4>
       <p>Post: NV-Fakultetet, Realfagbygget</p>
-      <p>Høgskoleringen 5, 7491 Trondheim</p>
+      <p>Høgskoleringen 5, 7034 Trondheim</p>
       <br />
       <p><a href="https://link.mazemap.com/TpF2KUO6">Besøksadresse: Realfagbygget NTNU,<br> Sem Sælands vei 10, 7034 Trondheim</a></p>
       <br/>
