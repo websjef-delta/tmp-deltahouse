@@ -3,7 +3,7 @@
 **Velkommen!**  
 Velkommen som student i Trondheim og gratulerer med plass på studiet i Matematiske fag eller Fysikk! Du har mye å glede deg til de kommene årene som student i kanskje verdens, men hvert fall Norges beste studentby. Det første som trengs å gjøres når du har startet hos oss, er å melde deg på fadderperioden!
 
-* [Påmeldingsskjema for fadderperioden 2022!](https://forms.gle/GoiATksMbXJmokkM7)
+* [Påmeldingsskjema for fadderperioden 2023!](https://forms.gle/dMX6CwFjrBj5qApR8)
 
 Hvis det er mer du lurer på angående hva delta gjør, så er det bare å ta en titt på Komité-fanen på denne nettsiden.  
 
@@ -15,5 +15,5 @@ Vi i Linjeforeningen Delta gleder oss masse til å treffe deg nå til høsten!
 I mellomtida kan dere følge [likepagen](https://www.facebook.com/DeltaNTNU) vår og [instagramprofilen](https://www.instagram.com/linjeforeningendelta/) vår for å se litt hva vi holder på med.
 
 
-**Program for fadderperioden 2022**   
-<img src="/images/uploads/FadderukeBanner.png" title="Fadderuka 2022" align="center" height="370">
+**Program for fadderperioden 2023**   
+KOMMER
