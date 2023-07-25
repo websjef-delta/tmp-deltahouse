@@ -4,9 +4,11 @@
       <g-image src="~/assets/img/kullbilde.png" class="header-image" />
       <div class="body">
         <p>
-          Meld deg som fadder for 2023!
+          Skal du studere årsstudium/bachelor/master i matematiske fag eller
+          bachelor/master i fysikk ved NTNU høsten 2023? Da er Delta din linjeforening! 
+          Du kan allerede nå melde deg på deltas fadderuke for mer informasjon. Velkommen til nytt studie!
         </p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNTDiM6RoKkNwSS5rsxfVjDIitEXpJxBru9euXeju0HHuLxA/viewform?fbclid=IwAR3AbhYLB8QCmlmPehXfebsqX2n1bdiZTTq8XZocXztT5g-f6iv4LH3MFEo" class="link-button"
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdlVWunUjMBoyk-ujPM8bX9ScjNjjB1xOGI33FwZhNK7VLq8Q/viewform?usp=sf_link" class="link-button"
           >Påmelding</a
         >
       </div>
