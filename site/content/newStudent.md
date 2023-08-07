@@ -16,4 +16,5 @@ I mellomtida kan dere følge [likepagen](https://www.facebook.com/DeltaNTNU) vå
 
 
 **Program for fadderperioden 2023**   
-KOMMER
+
+<img src="/images/uploads/Fadderuka_oversikt.jpg"  width="300" height="200" align="right" title="Program">
