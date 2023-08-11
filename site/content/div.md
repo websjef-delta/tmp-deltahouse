@@ -58,7 +58,7 @@ Her finner du referat fra styremøter.
 ## Tilbakemeldingsskjemaer  
 Her finner du tilbakemeldingsskjemaer der du kan anonymt varsle om hendelser eller gi tilbakemeldinger.  
 * [Innsending til Leder og Nestleder](https://forms.gle/XQXGUKnK6BDRNbeo8)  
-* [Innsending til KomKomsjef og InKomsjef](https://forms.gle/HdbDTcjVW3qFEKLa9)
+* [Innsending til KomKomsjef og InKomsjef](https://forms.gle/E9nFS5it79swDXrV9)
 
 
 
